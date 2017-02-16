@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+   <!-- injection from CCL Real_Weapons_Melee -->
+   
+   <hunting_knife.label>Охотничий нож</hunting_knife.label>
+   <hunting_knife.description>Стандартный охотничий нож с насечками.</hunting_knife.description>
+   
+   <machete.label>Мачете</machete.label>
+   <machete.description>Ранее использовался как сельскохозяйственное орудие.</machete.description>
+   
+   <wrench.label>Разводной ключ</wrench.label>
+   <wrench.description>Ранее использовался как инструмент, сейчас неплох как оружие.</wrench.description>
+   
+   <Gun_newcrossbow.label>Арбалет с оптикой</Gun_newcrossbow.label>
+   <Gun_newcrossbow.description>Смертоносный арбалет, на котором установленна оптика для дальних дистанций.</Gun_newcrossbow.description>
+   
+   <wooden_crossbow.label>Арбалет из дерева</wooden_crossbow.label>
+   <wooden_crossbow.description>Стандартный арбалет из крепких пород деревьев.</wooden_crossbow.description>
+   
+   <bone_crossbow.label>Арбалет из кости</bone_crossbow.label>
+   <bone_crossbow.description>Эти кости принадлежали человеку?</bone_crossbow.description>
+   
+   <shuriken.label>Сюрикен</shuriken.label>
+   <shuriken.description>Метательное оружие ниндзя.</shuriken.description>
+   
+   <throwing_knife.label>Метательный нож</throwing_knife.label>
+   <throwing_knife.description>Сбалансированный нож для метания.</throwing_knife.description>
+   
+
+  
+</LanguageData>

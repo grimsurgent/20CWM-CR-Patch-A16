@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ThingDefs>
+
+  <!-- ================== Crossbow bolt ================== -->
+
+  <ThingDef Name="BaseboltProjectile" ParentName="BaseBullet">
+    <graphicData>
+      <texPath>Things/Projectile/crossbow_bolt</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <projectile>
+      <damageDef>Arrow</damageDef>
+      <speed>70</speed>
+    </projectile>
+  </ThingDef>
+
+  <ThingDef ParentName="BaseboltProjectile">
+    <defName>Projectile_bolt_Steel</defName>
+    <label>Crossbow bolt (steel)</label>
+    <projectile>
+      <damageAmountBase>13</damageAmountBase>
+			<armorPenetration>0.27</armorPenetration>
+    </projectile>
+  </ThingDef>
+  
+  <!-- ================== Shuriken ================== -->
+
+  <ThingDef Name="BaseShurikenProjectile" ParentName="BaseBullet">
+    <graphicData>
+      <texPath>Things/Projectile/Shuriken/shuriken</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <projectile>
+      <damageDef>Arrow</damageDef>
+      <speed>30</speed>
+    </projectile>
+  </ThingDef>
+
+  <ThingDef ParentName="BaseShurikenProjectile">
+    <defName>Projectile_Shuriken_Steel</defName>
+    <label>Shuriken (steel)</label>
+    <projectile>
+      <damageAmountBase>7</damageAmountBase>
+			<armorPenetration>0.17</armorPenetration>
+    </projectile>
+  </ThingDef>
+  
+  <!-- ================== Knife ================== -->
+
+  <ThingDef Name="BaseknifeProjectile" ParentName="BaseBullet">
+    <graphicData>
+      <texPath>Things/Projectile/Knife/throwing_knife_round</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <projectile>
+      <damageDef>Arrow</damageDef>
+      <speed>30</speed>
+    </projectile>
+  </ThingDef>
+
+  <ThingDef ParentName="BaseknifeProjectile">
+    <defName>Projectile_knife_Steel</defName>
+    <label>Knife (steel)</label>
+    <projectile>
+      <damageAmountBase>8</damageAmountBase>
+	  <armorPenetration>0.15</armorPenetration>
+    </projectile>
+  </ThingDef>
+
+
+</ThingDefs>

@@ -1,0 +1,188 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<RecipeDefs>
+  
+<!-- ==================== 5.45mm ========================== -->
+
+  <RecipeDef ParentName="AmmoRecipeBase">
+    <defName>MakeAmmo_545x39mm_FMJ</defName>
+    <label>make 5.45x39mm (FMJ) cartridge x200</label>
+    <description>Craft 200 5.45x39mm (FMJ) cartridges.</description>
+    <jobString>Making 5.45x39mm (FMJ) cartridges.</jobString>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Steel</li>
+          </thingDefs>
+        </filter>
+        <count>8</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>Steel</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <Ammo_545x39mm_FMJ>200</Ammo_545x39mm_FMJ>
+    </products>
+  </RecipeDef>
+
+  <RecipeDef ParentName="AmmoRecipeBase">
+    <defName>MakeAmmo_545x39mm_AP</defName>
+    <label>make 5.45x39mm (AP) cartridge x200</label>
+    <description>Craft 200 5.45x39mm (AP) cartridges.</description>
+    <jobString>Making 5.45x39mm (AP) cartridges.</jobString>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Steel</li>
+          </thingDefs>
+        </filter>
+        <count>10</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>Steel</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <Ammo_545x39mm_AP>200</Ammo_545x39mm_AP>
+    </products>
+  </RecipeDef>
+
+  <RecipeDef ParentName="AmmoRecipeBase">
+    <defName>MakeAmmo_545x39mm_HP</defName>
+    <label>make 5.45x39mm  (HP) cartridge x200</label>
+    <description>Craft 200 5.45x39mm (HP) cartridges.</description>
+    <jobString>Making 5.45x39mm (HP) cartridges.</jobString>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Steel</li>
+          </thingDefs>
+        </filter>
+        <count>10</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>Steel</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <Ammo_545x39mm_HP>200</Ammo_545x39mm_HP>
+    </products>
+  </RecipeDef>
+  
+  <!-- ==================== 9x39mm ========================== -->
+  
+  <RecipeDef ParentName="AmmoRecipeBase">
+    <defName>MakeAmmo_9x39mm_FMJ</defName>
+    <label>make 9x39mm (FMJ) cartridge x50</label>
+    <description>Craft 50 9x39mm (FMJ) cartridges.</description>
+    <jobString>Making 9x39mm (FMJ) cartridges.</jobString>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Steel</li>
+          </thingDefs>
+        </filter>
+        <count>16</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>Steel</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <Ammo_9x39mm_FMJ>50</Ammo_9x39mm_FMJ>
+    </products>
+  </RecipeDef>
+
+  <RecipeDef ParentName="AmmoRecipeBase">
+    <defName>MakeAmmo_9x39mm_AP</defName>
+    <label>make 9x39mm (AP) cartridge x50</label>
+    <description>Craft 50 9x39mm (AP) cartridges.</description>
+    <jobString>Making 9x39mm (AP) cartridges.</jobString>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Steel</li>
+          </thingDefs>
+        </filter>
+        <count>20</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>Steel</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <Ammo_9x39mm_AP>50</Ammo_9x39mm_AP>
+    </products>
+  </RecipeDef>
+
+  <RecipeDef ParentName="AmmoRecipeBase">
+    <defName>MakeAmmo_9x39mm_HP</defName>
+    <label>make 9x39mm  (HP) cartridge x50</label>
+    <description>Craft 50 9x39mm (HP) cartridges.</description>
+    <jobString>Making 9x39mm (HP) cartridges.</jobString>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Steel</li>
+          </thingDefs>
+        </filter>
+        <count>20</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>Steel</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <Ammo_9x39mm_HP>50</Ammo_9x39mm_HP>
+    </products>
+  </RecipeDef>
+  
+  
+  <!-- ==================== 7.92x57mm ========================== -->
+  
+  
+  <RecipeDef ParentName="AmmoRecipeBase">
+    <defName>MakeAmmo_792x57mm_AP</defName>
+    <label>make 7.92x57mm (AP) cartridge x200</label>
+    <description>Craft 200 7.92x57mm (AP) cartridges.</description>
+    <jobString>Making 7.92x57mm (AP) cartridges.</jobString>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Steel</li>
+          </thingDefs>
+        </filter>
+        <count>15</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>Steel</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <Ammo_792x57mm_AP>200</Ammo_792x57mm_AP>
+    </products>
+  </RecipeDef>
+
+
+</RecipeDefs>

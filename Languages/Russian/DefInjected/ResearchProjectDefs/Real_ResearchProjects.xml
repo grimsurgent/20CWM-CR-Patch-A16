@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<Gun_dshkm.label>ДШКМ</Gun_dshkm.label>
+	<Gun_dshkm.description>Дает возможность постройки станкового крупнокалиберного пулемета ДШКМ.</Gun_dshkm.description>
+	
+	<Gun_spg9_res.label>СПГ-9</Gun_spg9_res.label>
+	<Gun_spg9_res.description>Дает возможность постройки станкового противотанкового гранатомёта СПГ-9 «Копьё».</Gun_spg9_res.description>
+	
+
+</LanguageData>

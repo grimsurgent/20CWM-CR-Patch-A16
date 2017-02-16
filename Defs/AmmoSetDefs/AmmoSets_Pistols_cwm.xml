@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Defs>
+  
+  
+  <Combat_Realism.AmmoSetDef>
+    <defName>AmmoSet_57x28mm</defName>
+    <label>5.7x28mm</label>
+    <ammoTypes>
+    <li>Ammo_57x28mm</li>
+    </ammoTypes>
+  </Combat_Realism.AmmoSetDef>
+  
+    
+  <Combat_Realism.AmmoSetDef>
+    <defName>AmmoSet_44magnum</defName>
+    <label>.44 Remington Magnum</label>
+	<ammoTypes>
+	<li>Ammo_44magnum_HP</li>
+	</ammoTypes>
+  </Combat_Realism.AmmoSetDef>
+  
+  
+  <Combat_Realism.AmmoSetDef>
+    <defName>AmmoSet_380acp</defName>
+    <label>.380 ACP</label>
+	<ammoTypes>
+	<li>Ammo_380acp_HP</li>
+	</ammoTypes>
+  </Combat_Realism.AmmoSetDef>
+  
+  
+
+</Defs>

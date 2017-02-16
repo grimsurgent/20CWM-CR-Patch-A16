@@ -1,0 +1,237 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<RecipeDefs>
+  
+  <!-- ==================== .338 Lapua Magnum ========================== -->
+  
+
+  <RecipeDef ParentName="AmmoRecipeBase">
+    <defName>MakeAmmo_338Lapua_FMJ</defName>
+    <label>make .338 Lapua Magnum (FMJ) cartridge x100</label>
+    <description>Craft 100 .338 Lapua Magnum (FMJ) cartridges.</description>
+    <jobString>Making .338 Lapua Magnum (FMJ) cartridges.</jobString>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Steel</li>
+          </thingDefs>
+        </filter>
+        <count>28</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>Steel</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <Ammo_338Lapua_FMJ>100</Ammo_338Lapua_FMJ>
+    </products>
+  </RecipeDef>
+  
+
+  <RecipeDef ParentName="AmmoRecipeBase">
+    <defName>MakeAmmo_338Lapua_AP</defName>
+    <label>make .338 Lapua Magnum (Sabot) cartridge x100</label>
+    <description>Craft 100 .338 Lapua Magnum (Sabot) cartridges.</description>
+    <jobString>Making .338 Lapua Magnum (Sabot) cartridges.</jobString>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Steel</li>
+          </thingDefs>
+        </filter>
+        <count>22</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Uranium</li>
+          </thingDefs>
+        </filter>
+        <count>4</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>Steel</li>
+        <li>Uranium</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <Ammo_338Lapua_AP>100</Ammo_338Lapua_AP>
+    </products>
+  </RecipeDef>
+  
+  
+  <RecipeDef ParentName="AmmoRecipeBase">
+    <defName>MakeAmmo_338Lapua_HE</defName>
+    <label>make .338 Lapua Magnum (HE) cartridge x100</label>
+    <description>Craft 100 .338 Lapua Magnum BMG (HE) cartridges.</description>
+    <jobString>Making .338 Lapua Magnum BMG (HE) cartridges.</jobString>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Steel</li>
+          </thingDefs>
+        </filter>
+        <count>22</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>FSX</li>
+          </thingDefs>
+        </filter>
+        <count>4</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>Steel</li>
+        <li>FSX</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <Ammo_338Lapua_HE>100</Ammo_338Lapua_HE>
+    </products>
+  </RecipeDef>
+
+
+  <RecipeDef ParentName="AmmoRecipeBase">
+    <defName>MakeAmmo_338Lapua_Incendiary</defName>
+    <label>make .338 Lapua Magnum (AP-I) cartridge x100</label>
+    <description>Craft 100 .338 Lapua Magnum (AP-I) cartridges.</description>
+    <jobString>Making .338 Lapua Magnum (AP-I) cartridges.</jobString>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Steel</li>
+          </thingDefs>
+        </filter>
+        <count>24</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Prometheum</li>
+          </thingDefs>
+        </filter>
+        <count>4</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>Steel</li>
+        <li>Prometheum</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <Ammo_338Lapua_Incendiary>100</Ammo_338Lapua_Incendiary>
+    </products>
+  </RecipeDef>
+  
+  
+  <!-- ==================== 12.7x108mm ========================== -->
+  
+  
+  <RecipeDef ParentName="AmmoRecipeBase">
+    <defName>MakeAmmo_127x108mm_FMJ</defName>
+    <label>make 12.7x108mm (FMJ) cartridge x200</label>
+    <description>Craft 200 12.7x108mm (FMJ) cartridges.</description>
+    <jobString>Making 12.7x108mm (FMJ) cartridges.</jobString>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Steel</li>
+          </thingDefs>
+        </filter>
+        <count>38</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>Steel</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <Ammo_127x108mm_FMJ>200</Ammo_127x108mm_FMJ>
+    </products>
+  </RecipeDef>
+
+  <RecipeDef ParentName="AmmoRecipeBase">
+    <defName>MakeAmmo_127x108mm_AP</defName>
+    <label>make 12.7x108mm (Sabot) cartridge x300</label>
+    <description>Craft 300 12.7x108mm (Sabot) cartridges.</description>
+    <jobString>Making 12.7x108mm (Sabot) cartridges.</jobString>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Steel</li>
+          </thingDefs>
+        </filter>
+        <count>22</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Uranium</li>
+          </thingDefs>
+        </filter>
+        <count>2</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>Steel</li>
+        <li>Uranium</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <Ammo_127x108mm_AP>300</Ammo_127x108mm_AP>
+    </products>
+  </RecipeDef>
+  
+  
+
+  <RecipeDef ParentName="AmmoRecipeBase">
+    <defName>MakeAmmo_127x108mm_Incendiary</defName>
+    <label>make 12.7x108mm (AP-I) cartridge x300</label>
+    <description>Craft 300 12.7x108mm (AP-I) cartridges.</description>
+    <jobString>Making 12.7x108mm (AP-I) cartridges.</jobString>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Steel</li>
+          </thingDefs>
+        </filter>
+        <count>24</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Prometheum</li>
+          </thingDefs>
+        </filter>
+        <count>3</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>Steel</li>
+        <li>Prometheum</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <Ammo_127x108mm_Incendiary>300</Ammo_127x108mm_Incendiary>
+    </products>
+  </RecipeDef>
+
+  
+</RecipeDefs>

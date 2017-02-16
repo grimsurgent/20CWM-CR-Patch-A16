@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<Gun_dshkm.label>DShKM</Gun_dshkm.label>
+	<Gun_dshkm.description>ДDas DShK ist ein schweres Maschinengewehr welches Patronen im Kaliber 12.7×108mm abfeuert.Im Jahr 1938/46 wurde DShKM vorgestellt , eine modernisierte Version.</Gun_dshkm.description>
+	
+	<Gun_spg9_res.label>SPG-9</Gun_spg9_res.label>
+	<Gun_spg9_res.description>Das SPG-9 ist ein russisches, Tripod montiertes,manntragbares, 73 millimeter Kaliber feuerndes Maschinengewehr.</Gun_spg9_res.description>
+	
+
+</LanguageData>

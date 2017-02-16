@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+   <!-- injection from CCL Real_Weapons_Melee -->
+   
+   
+   <Make_Gun_newcrossbow.label>Сделать арбалет с оптикой</Make_Gun_newcrossbow.label>
+   <Make_Gun_newcrossbow.description>Сделать арбалет с оптикой.</Make_Gun_newcrossbow.description>
+   <Make_Gun_newcrossbow.jobString>делает арбалет с оптикой</Make_Gun_newcrossbow.jobString>
+
+   <Make_wooden_crossbow.label>Сделать арбалет из дерева</Make_wooden_crossbow.label>
+   <Make_wooden_crossbow.description>Сделать арбалет из дерева.</Make_wooden_crossbow.description>
+   <Make_wooden_crossbow.jobString>делает арбалет из дерева</Make_wooden_crossbow.jobString>
+
+   <Make_bone_crossbow.label>Сделать арбалет из кости</Make_bone_crossbow.label>
+   <Make_bone_crossbow.description>Сделать арбалет из кости.</Make_bone_crossbow.description>
+   <Make_bone_crossbow.jobString>делает арбалет из кости</Make_bone_crossbow.jobString>
+
+   <Make_shuriken.label>Сделать сюрикен</Make_shuriken.label>
+   <Make_shuriken.description>Сделать сюрикен.</Make_shuriken.description>
+   <Make_shuriken.jobString>делает сюрикен</Make_shuriken.jobString>
+
+   <Make_throwing_knife.label>Сделать метательный нож</Make_throwing_knife.label>
+   <Make_throwing_knife.description>Сделать метательный нож.</Make_throwing_knife.description>
+   <Make_throwing_knife.jobString>делает метательный нож</Make_throwing_knife.jobString>
+
+   
+   </LanguageData>

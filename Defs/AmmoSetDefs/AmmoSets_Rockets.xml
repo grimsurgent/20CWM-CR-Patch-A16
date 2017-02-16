@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  
+  <!-- ==================== RPG-7 Grenade ========================== -->
+
+  <Combat_Realism.AmmoSetDef>
+    <defName>AmmoSet_RPG7Grenade</defName>
+    <label>RPG-7 Grenades</label>
+	<ammoTypes>
+	  <li>Ammo_RPG7Grenade_HEAT</li>
+	  <li>Ammo_RPG7Grenade_Thermobaric</li>
+	  <li>Ammo_RPG7Grenade_Frag</li>
+	</ammoTypes>
+  </Combat_Realism.AmmoSetDef>
+  
+  <!-- ==================== SPG-9 Grenade ========================== -->
+
+  <Combat_Realism.AmmoSetDef>
+    <defName>AmmoSet_SPG9Grenade</defName>
+    <label>SPG-9 Grenades</label>
+	<ammoTypes>
+	  <li>Ammo_SPG9Grenade_Frag</li>
+	</ammoTypes>
+  </Combat_Realism.AmmoSetDef>
+  
+  <!-- ==================== 84mm Grenade ========================== -->
+  
+  <Combat_Realism.AmmoSetDef>
+    <defName>AmmoSet_84mmGrenade</defName>
+    <label>84mm Grenades</label>
+	<ammoTypes>
+	  <li>Ammo_84mmGrenade_Frag</li>
+	</ammoTypes>
+  </Combat_Realism.AmmoSetDef>
+  
+  <!-- ==================== 90mm Grenade ========================== -->
+  
+  <Combat_Realism.AmmoSetDef>
+    <defName>AmmoSet_90mmGrenade</defName>
+    <label>90mm Grenades</label>
+	<ammoTypes>
+	  <li>Ammo_90mmGrenade_Frag</li>
+	</ammoTypes>
+  </Combat_Realism.AmmoSetDef>
+  
+  
+</Defs>

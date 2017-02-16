@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  
+
+  <!-- ==================== 5.45mm ========================== -->
+  
+  <ThingDef Class="Combat_Realism.AmmoDef" Name="545x39mmBase" ParentName="AmmoBase" Abstract="True">
+    <description>The 5.45×39mm cartridge is a rimless bottlenecked rifle cartridge. It was introduced into service in 1974 by the Soviet Union for use with the new AK-74 assault rifle. It gradually supplemented, then largely replaced the 7.62×39mm round in service.</description>
+    <statBases>
+	  <Mass>0.012</Mass>
+	  <Bulk>0.03</Bulk>
+    </statBases>
+	<tradeTags>
+	  <li>CR_AutoEnableTrade</li>
+	  <li>CR_AutoEnableCrafting</li>
+	</tradeTags>
+    <thingCategories>
+      <li>Ammo545x39mm</li>
+    </thingCategories>
+  </ThingDef>
+
+  <ThingDef Class="Combat_Realism.AmmoDef" ParentName="545x39mmBase">
+    <defName>Ammo_545x39mm_FMJ</defName>
+    <label>5.45x39mm cartridge (FMJ)</label>
+    <graphicData>
+      <texPath>Things/Ammo/Rifle/FMJ</texPath>
+      <graphicClass>Graphic_StackCount</graphicClass>
+    </graphicData>
+    <statBases>
+      <MarketValue>0.04</MarketValue>
+    </statBases>
+	<linkedProjectile>Bullet_545x39mm_FMJ</linkedProjectile>
+	<ammoClass>FullMetalJacket</ammoClass>
+  </ThingDef>
+
+  <ThingDef Class="Combat_Realism.AmmoDef" ParentName="545x39mmBase">
+    <defName>Ammo_545x39mm_AP</defName>
+    <label>5.45x39mm cartridge (AP)</label>
+    <graphicData>
+      <texPath>Things/Ammo/Rifle/AP</texPath>
+      <graphicClass>Graphic_StackCount</graphicClass>
+    </graphicData>
+    <statBases>
+      <MarketValue>0.05</MarketValue>
+    </statBases>
+	<linkedProjectile>Bullet_545x39mm_AP</linkedProjectile>
+	<ammoClass>ArmorPiercing</ammoClass>
+  </ThingDef>
+
+  <ThingDef Class="Combat_Realism.AmmoDef" ParentName="545x39mmBase">
+    <defName>Ammo_545x39mm_HP</defName>
+    <label>5.45x39mm cartridge (HP)</label>
+    <graphicData>
+      <texPath>Things/Ammo/Rifle/HP</texPath>
+      <graphicClass>Graphic_StackCount</graphicClass>
+    </graphicData>
+    <statBases>
+      <MarketValue>0.05</MarketValue>
+    </statBases>
+	<linkedProjectile>Bullet_545x39mm_HP</linkedProjectile>
+	<ammoClass>HollowPoint</ammoClass>
+  </ThingDef>
+
+  
+  <!-- ==================== 9x39mm ========================== -->
+  
+  <ThingDef Class="Combat_Realism.AmmoDef" Name="9x39mmBase" ParentName="AmmoBase" Abstract="True">
+    <description>The intent was to create a subsonic cartridge for suppressed firearms for special forces units that had more power, range and penetration than handgun cartridges. Since the bullet weighs about twice as much as that of the 9×19mm Parabellum, its muzzle energy is about twice as high as that of a subsonic 9×19mm Parabellum bullet, e.g. when fired from a HK MP5SD.</description>
+    <statBases>
+	  <Mass>0.010</Mass>
+	  <Bulk>0.02</Bulk>
+    </statBases>
+	<tradeTags>
+	  <li>CR_AutoEnableTrade</li>
+	  <li>CR_AutoEnableCrafting</li>
+	</tradeTags>
+    <thingCategories>
+      <li>Ammo9x39mm</li>
+    </thingCategories>
+  </ThingDef>
+
+  <ThingDef Class="Combat_Realism.AmmoDef" ParentName="9x39mmBase">
+    <defName>Ammo_9x39mm_FMJ</defName>
+    <label>9x39mm cartridge (FMJ)</label>
+    <graphicData>
+      <texPath>Things/Ammo/Rifle/FMJ</texPath>
+      <graphicClass>Graphic_StackCount</graphicClass>
+    </graphicData>
+    <statBases>
+      <MarketValue>0.14</MarketValue>
+    </statBases>
+	<linkedProjectile>Bullet_9x39mm_FMJ</linkedProjectile>
+	<ammoClass>FullMetalJacket</ammoClass>
+  </ThingDef>
+
+  <ThingDef Class="Combat_Realism.AmmoDef" ParentName="9x39mmBase">
+    <defName>Ammo_9x39mm_AP</defName>
+    <label>9x39mm cartridge (AP)</label>
+    <graphicData>
+      <texPath>Things/Ammo/Rifle/AP</texPath>
+      <graphicClass>Graphic_StackCount</graphicClass>
+    </graphicData>
+    <statBases>
+      <MarketValue>0.16</MarketValue>
+    </statBases>
+	<linkedProjectile>Bullet_9x39mm_AP</linkedProjectile>
+	<ammoClass>ArmorPiercing</ammoClass>
+  </ThingDef>
+
+  <ThingDef Class="Combat_Realism.AmmoDef" ParentName="9x39mmBase">
+    <defName>Ammo_9x39mm_HP</defName>
+    <label>9x39mm cartridge (HP)</label>
+    <graphicData>
+      <texPath>Things/Ammo/Rifle/HP</texPath>
+      <graphicClass>Graphic_StackCount</graphicClass>
+    </graphicData>
+    <statBases>
+      <MarketValue>0.16</MarketValue>
+    </statBases>
+	<linkedProjectile>Bullet_9x39mm_HP</linkedProjectile>
+	<ammoClass>HollowPoint</ammoClass>
+  </ThingDef>
+  
+  
+  <!-- ==================== 7.92x57mm ========================== -->
+  
+  <ThingDef Class="Combat_Realism.AmmoDef" Name="792x57mmBase" ParentName="AmmoBase" Abstract="True">
+    <description>The 7.92×57mm Mauser (designated as the 8mm Mauser or 8×57mm by the SAAMI and 8 × 57 IS by the C.I.P.) is a rimless bottlenecked rifle cartridge. The 7.92×57mm Mauser cartridge was adopted by the German Empire in 1905, and was the German service cartridge in both World Wars. In its day, the 7.92×57mm Mauser cartridge was one of the world’s most popular military cartridges.</description>
+    <statBases>
+	  <Mass>0.012</Mass>
+	  <Bulk>0.04</Bulk>
+    </statBases>
+	<tradeTags>
+	  <li>CR_AutoEnableTrade</li>
+	  <li>CR_AutoEnableCrafting</li>
+	</tradeTags>
+    <thingCategories>
+      <li>Ammo792x57mm</li>
+    </thingCategories>
+  </ThingDef>
+
+
+  <ThingDef Class="Combat_Realism.AmmoDef" ParentName="792x57mmBase">
+    <defName>Ammo_792x57mm_AP</defName>
+    <label>7.92x57mm cartridge (AP)</label>
+    <graphicData>
+      <texPath>Things/Ammo/Rifle/AP</texPath>
+      <graphicClass>Graphic_StackCount</graphicClass>
+    </graphicData>
+    <statBases>
+      <MarketValue>0.09</MarketValue>
+    </statBases>
+	<linkedProjectile>Bullet_792x57mm_AP</linkedProjectile>
+	<ammoClass>ArmorPiercing</ammoClass>
+  </ThingDef>
+
+
+  
+  
+  
+  
+</Defs>

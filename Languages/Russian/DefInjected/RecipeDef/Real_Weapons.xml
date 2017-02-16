@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+   <!-- injection from CCL Real_Weapons -->
+   
+   
+   <Make_Gun_ak74_cwm.label>Сделать АК74</Make_Gun_ak74_cwm.label>
+   <Make_Gun_ak74_cwm.description>Сделать АК74.</Make_Gun_ak74_cwm.description>
+   <Make_Gun_ak74_cwm.jobString>делает АК74</Make_Gun_ak74_cwm.jobString>
+
+   <Make_Gun_rpk74_cwm.label>Сделать РПК74</Make_Gun_rpk74_cwm.label>
+   <Make_Gun_rpk74_cwm.description>Сделать РПК74.</Make_Gun_rpk74_cwm.description>
+   <Make_Gun_rpk74_cwm.jobString>делает РПК74</Make_Gun_rpk74_cwm.jobString>
+
+   <Make_Gun_aks74_cwm.label>Сделать АКС74</Make_Gun_aks74_cwm.label>
+   <Make_Gun_aks74_cwm.description>Сделать АКС74.</Make_Gun_aks74_cwm.description>
+   <Make_Gun_aks74_cwm.jobString>делает АКС74</Make_Gun_aks74_cwm.jobString>
+
+   <Make_Gun_aks74u_cwm.label>Сделать АКС74у</Make_Gun_aks74u_cwm.label>
+   <Make_Gun_aks74u_cwm.description>Сделать АКС74у.</Make_Gun_aks74u_cwm.description>
+   <Make_Gun_aks74u_cwm.jobString>делает АКС74у</Make_Gun_aks74u_cwm.jobString>
+
+   <Make_Gun_akm_cwm.label>Сделать АКМ</Make_Gun_akm_cwm.label>
+   <Make_Gun_akm_cwm.description>Сделать АКМ.</Make_Gun_akm_cwm.description>
+   <Make_Gun_akm_cwm.jobString>делает АКМ</Make_Gun_akm_cwm.jobString>
+   
+   <Make_Gun_aks_cwm.label>Сделать АКМС</Make_Gun_aks_cwm.label>
+   <Make_Gun_aks_cwm.description>Сделать АКМС.</Make_Gun_aks_cwm.description>
+   <Make_Gun_aks_cwm.jobString>делает АКМС</Make_Gun_aks_cwm.jobString>
+   
+   <Make_Gun_sks_cwm.label>Сделать СКС</Make_Gun_sks_cwm.label>
+   <Make_Gun_sks_cwm.description>Сделать СКС.</Make_Gun_sks_cwm.description>
+   <Make_Gun_sks_cwm.jobString>делает СКС</Make_Gun_sks_cwm.jobString>
+   
+   <Make_Gun_pp19_cwm.label>Сделать ПП-19</Make_Gun_pp19_cwm.label>
+   <Make_Gun_pp19_cwm.description>Сделать ПП-19.</Make_Gun_pp19_cwm.description>
+   <Make_Gun_pp19_cwm.jobString>делает ПП-19</Make_Gun_pp19_cwm.jobString>
+   
+   <Make_Gun_mosin_cwm.label>Сделать Винтовку Мосина</Make_Gun_mosin_cwm.label>
+   <Make_Gun_mosin_cwm.description>Сделать Винтовку Мосина.</Make_Gun_mosin_cwm.description>
+   <Make_Gun_mosin_cwm.jobString>делает винтовку Мосина</Make_Gun_mosin_cwm.jobString>
+
+   <Make_Gun_saiga12_cwm.label>Сделать Сайга-12К</Make_Gun_saiga12_cwm.label>
+   <Make_Gun_saiga12_cwm.description>Сделать Сайга-12К.</Make_Gun_saiga12_cwm.description>
+   <Make_Gun_saiga12_cwm.jobString>делает Сайга-12К</Make_Gun_saiga12_cwm.jobString>
+   
+   <Make_Gun_prozshmel_cwm.label>Сделать РПО-З «Шмель»</Make_Gun_prozshmel_cwm.label>
+   <Make_Gun_prozshmel_cwm.description>Сделать РПО-З «Шмель».</Make_Gun_prozshmel_cwm.description>
+   <Make_Gun_prozshmel_cwm.jobString>делает РПО-З «Шмель»</Make_Gun_prozshmel_cwm.jobString>
+
+</LanguageData>

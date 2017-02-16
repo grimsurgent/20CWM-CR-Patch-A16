@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ThingCategoryDefs>
+
+    <ThingCategoryDef>
+      <defName>AmmoPistols</defName>
+      <label>pistol</label>
+      <parent>Ammo</parent>
+    </ThingCategoryDef>
+
+    <ThingCategoryDef>
+      <defName>Ammo57x28mm</defName>
+      <label>5.7x28mm</label>
+      <parent>AmmoPistols</parent>
+    </ThingCategoryDef>
+
+    <ThingCategoryDef>
+      <defName>Ammo44magnum</defName>
+      <label>.44 Remington Magnum</label>
+      <parent>AmmoPistols</parent>
+    </ThingCategoryDef>
+	
+	<ThingCategoryDef>
+      <defName>Ammo380acp</defName>
+      <label>.380 ACP</label>
+      <parent>AmmoPistols</parent>
+    </ThingCategoryDef>
+
+
+</ThingCategoryDefs>

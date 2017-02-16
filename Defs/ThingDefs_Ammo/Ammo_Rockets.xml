@@ -1,0 +1,160 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <!-- ==================== RPG-7 Grenades ========================== -->
+
+  <ThingDef Class="Combat_Realism.AmmoDef" Name="RPG7GrenadeBase" ParentName="AmmoBase" Abstract="True">
+    <description>Rocket-propelled grenade designed for the RPG-7 launcher. After being fired a rocket motor kicks in to propel the grenade further.</description>
+	<tradeTags>
+	  <li>CR_AutoEnableTrade</li>
+	  <li>CR_AutoEnableCrafting</li>
+	</tradeTags>
+    <thingCategories>
+      <li>AmmoRPG7Grenades</li>
+    </thingCategories>
+    <stackLimit>25</stackLimit>
+  </ThingDef>
+
+  <ThingDef Class="Combat_Realism.AmmoDef" ParentName="RPG7GrenadeBase">
+    <defName>Ammo_RPG7Grenade_HEAT</defName>
+    <label>RPG-7 grenade (HEAT)</label>
+    <graphicData>
+      <texPath>Things/Ammo/RPG/HEAT</texPath>
+      <graphicClass>Graphic_StackCount</graphicClass>
+    </graphicData>
+    <statBases>
+      <MarketValue>23.23</MarketValue>
+	  <Mass>2.6</Mass>
+	  <Bulk>4</Bulk>
+    </statBases>
+	<linkedProjectile>Bullet_RPG7Grenade_HEAT</linkedProjectile>
+	<ammoClass>RocketHEAT</ammoClass>
+  </ThingDef>
+
+  <ThingDef Class="Combat_Realism.AmmoDef" ParentName="RPG7GrenadeBase">
+    <defName>Ammo_RPG7Grenade_Thermobaric</defName>
+    <label>RPG-7 grenade (Thermobaric)</label>
+    <graphicData>
+      <texPath>Things/Ammo/RPG/Thermobaric</texPath>
+      <graphicClass>Graphic_StackCount</graphicClass>
+    </graphicData>
+    <statBases>
+      <MarketValue>37.03</MarketValue>
+	  <Mass>4.5</Mass>
+	  <Bulk>6</Bulk>
+    </statBases>
+	<linkedProjectile>Bullet_RPG7Grenade_Thermobaric</linkedProjectile>
+	<ammoClass>RocketThermobaric</ammoClass>
+  </ThingDef>
+
+  <ThingDef Class="Combat_Realism.AmmoDef" ParentName="RPG7GrenadeBase">
+    <defName>Ammo_RPG7Grenade_Frag</defName>
+    <label>RPG-7 grenade (Frag)</label>
+    <graphicData>
+      <texPath>Things/Ammo/RPG/Frag</texPath>
+      <graphicClass>Graphic_StackCount</graphicClass>
+    </graphicData>
+    <statBases>
+      <MarketValue>18.17</MarketValue>
+	  <Mass>4.5</Mass>
+	  <Bulk>6</Bulk>
+    </statBases>
+	<linkedProjectile>Bullet_RPG7Grenade_Frag</linkedProjectile>
+	<ammoClass>RocketFrag</ammoClass>
+  </ThingDef>
+  
+  
+  <!-- ==================== SPG-9 Grenades ========================== -->
+
+  <ThingDef Class="Combat_Realism.AmmoDef" Name="SPG9GrenadeBase" ParentName="AmmoBase" Abstract="True">
+    <description>SPG-9 grenade (Frag)</description>
+	<tradeTags>
+	  <li>CR_AutoEnableTrade</li>
+	  <li>CR_AutoEnableCrafting</li>
+	</tradeTags>
+    <thingCategories>
+      <li>AmmoSPG9Grenades</li>
+    </thingCategories>
+    <stackLimit>10</stackLimit>
+  </ThingDef>
+
+
+  <ThingDef Class="Combat_Realism.AmmoDef" ParentName="SPG9GrenadeBase">
+    <defName>Ammo_SPG9Grenade_Frag</defName>
+    <label>SPG-9 grenade (Frag)</label>
+    <graphicData>
+      <texPath>Things/Projectile/ammo/spg9/Frag</texPath>
+      <graphicClass>Graphic_StackCount</graphicClass>
+    </graphicData>
+    <statBases>
+      <MarketValue>2.0</MarketValue>
+	  <Mass>5.5</Mass>
+	  <Bulk>8</Bulk>
+    </statBases>
+	<linkedProjectile>Bullet_SPG9Grenade_Frag</linkedProjectile>
+	<ammoClass>RocketFrag</ammoClass>
+  </ThingDef>
+  
+  <!-- ==================== 84mm Grenades ========================== -->
+
+  <ThingDef Class="Combat_Realism.AmmoDef" Name="84mmGrenadeBase" ParentName="AmmoBase" Abstract="True">
+    <description>84mm grenade (Frag)</description>
+	<tradeTags>
+	  <li>CR_AutoEnableTrade</li>
+	  <li>CR_AutoEnableCrafting</li>
+	</tradeTags>
+    <thingCategories>
+      <li>Ammo84mmGrenades</li>
+    </thingCategories>
+    <stackLimit>25</stackLimit>
+  </ThingDef>
+
+  <ThingDef Class="Combat_Realism.AmmoDef" ParentName="84mmGrenadeBase">
+    <defName>Ammo_84mmGrenade_Frag</defName>
+    <label>84mm grenade (Frag)</label>
+    <graphicData>
+      <texPath>Things/Projectile/ammo/84mm/Frag</texPath>
+      <graphicClass>Graphic_StackCount</graphicClass>
+    </graphicData>
+    <statBases>
+      <MarketValue>18.17</MarketValue>
+	  <Mass>4.5</Mass>
+	  <Bulk>6</Bulk>
+    </statBases>
+	<linkedProjectile>Bullet_84mmGrenade_Frag</linkedProjectile>
+	<ammoClass>RocketFrag</ammoClass>
+  </ThingDef>
+  
+  
+  <!-- ==================== 90mm Grenades ========================== -->
+
+  <ThingDef Class="Combat_Realism.AmmoDef" Name="90mmGrenadeBase" ParentName="AmmoBase" Abstract="True">
+    <description>90mm grenade (Flame)</description>
+	<tradeTags>
+	  <li>CR_AutoEnableTrade</li>
+	  <li>CR_AutoEnableCrafting</li>
+	</tradeTags>
+    <thingCategories>
+      <li>Ammo90mmGrenades</li>
+    </thingCategories>
+    <stackLimit>25</stackLimit>
+  </ThingDef>
+
+  <ThingDef Class="Combat_Realism.AmmoDef" ParentName="90mmGrenadeBase">
+    <defName>Ammo_90mmGrenade_Frag</defName>
+    <label>90mm grenade (Flame)</label>
+    <graphicData>
+      <texPath>Things/Projectile/ammo/90mm/Flame</texPath>
+      <graphicClass>Graphic_StackCount</graphicClass>
+    </graphicData>
+    <statBases>
+      <MarketValue>18.17</MarketValue>
+	  <Mass>4.5</Mass>
+	  <Bulk>6</Bulk>
+    </statBases>
+	<linkedProjectile>Bullet_90mmGrenade_Frag</linkedProjectile>
+	<ammoClass>RocketFrag</ammoClass>
+  </ThingDef>
+  
+  
+</Defs>

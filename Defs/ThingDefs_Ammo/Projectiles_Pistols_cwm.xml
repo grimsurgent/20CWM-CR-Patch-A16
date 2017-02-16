@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ThingDefs>
+	
+	<!-- ================== 5.7x28mm ================== -->
+	
+  <ThingDef ParentName="BaseBullet">
+    <defName>Bullet_57x28mm</defName>
+    <label>5.7x28mm bullet</label>
+    <graphicData>
+      <texPath>Things/Projectile/Bullet_Small</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <projectile>
+      <damageDef>Bullet</damageDef>
+      <speed>145</speed>
+      <damageAmountBase>7</damageAmountBase>
+	  <armorPenetration>0.610</armorPenetration>
+    </projectile>
+  </ThingDef>
+	
+	<!-- ================== .44 Remington Magnum ================== -->
+	
+  <ThingDef Name="Base44magnumBullet" ParentName="BaseBullet" Abstract="true">
+    <graphicData>
+      <texPath>Things/Projectile/Bullet_Big</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <projectile>
+      <damageDef>Bullet</damageDef>
+      <speed>100</speed>
+    </projectile>
+  </ThingDef>
+  
+  <ThingDef ParentName="Base44magnumBullet">
+    <defName>Bullet_44magnum_HP</defName>
+    <label>.44 Magnum bullet (HP)</label>
+    <projectile>
+      <damageAmountBase>20</damageAmountBase>
+	  <armorPenetration>0.250</armorPenetration>
+    </projectile>
+  </ThingDef>
+  
+  <!-- ================== .380 ACP ================== -->
+	
+  <ThingDef Name="Base380acpBullet" ParentName="BaseBullet" Abstract="true">
+    <graphicData>
+      <texPath>Things/Projectile/Bullet_Big</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <projectile>
+      <damageDef>Bullet</damageDef>
+      <speed>75</speed>
+    </projectile>
+  </ThingDef>
+  
+  <ThingDef ParentName="Base380acpBullet">
+    <defName>Bullet_380acp_HP</defName>
+    <label>.380 ACP bullet (HP)</label>
+    <projectile>
+      <damageAmountBase>12</damageAmountBase>
+	  <armorPenetration>0.250</armorPenetration>
+    </projectile>
+  </ThingDef>
+	
+
+
+</ThingDefs>

@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ThingDefs>
+
+	<!-- ================== RPG-7 Grenade ================== -->
+
+	<ThingDef Name="BaseRPG7Grenade" ParentName="BaseBullet" Abstract="true">
+		<projectile>
+			<speed>80</speed>
+		</projectile>
+	</ThingDef>
+
+  <ThingDef ParentName="BaseRPG7Grenade">
+    <defName>Bullet_RPG7Grenade_HEAT</defName>
+    <label>RPG-7 grenade (HEAT)</label>
+    <graphicData>
+      <texPath>Things/Projectile/RPG/HEATrpg</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+    <projectile>
+      <damageDef>Bullet</damageDef>
+      <damageAmountBase>150</damageAmountBase>
+      <armorPenetration>10</armorPenetration>
+    </projectile>
+    <comps>
+      <li Class="Combat_Realism.CompProperties_ExplosiveCR">
+        <explosionDamage>30</explosionDamage>
+        <explosionDamageDef>Bomb</explosionDamageDef>
+        <explosionRadius>1.0</explosionRadius>
+        <soundExplode>Explosion_Bomb</soundExplode>
+      </li>
+    </comps>
+  </ThingDef>
+
+  <ThingDef ParentName="BaseRPG7Grenade">
+    <defName>Bullet_RPG7Grenade_Thermobaric</defName>
+    <label>RPG-7 grenade (Thermobaric)</label>
+    <graphicData>
+			<texPath>Things/Projectile/RPG/Thermobaricrpg</texPath>
+			<graphicClass>Graphic_Single</graphicClass>
+		</graphicData>
+    <projectile>
+      <damageDef>Thermobaric</damageDef>
+      <damageAmountBase>200</damageAmountBase>
+    </projectile>
+    <comps>
+	  <li Class="Combat_Realism.CompProperties_ExplosiveCR">
+	    <explosionDamage>100</explosionDamage>
+	    <explosionDamageDef>Thermobaric</explosionDamageDef>
+	    <explosionRadius>4.0</explosionRadius>
+	    <soundExplode>MortarBomb_Explode</soundExplode>
+	  </li>
+    </comps>
+  </ThingDef>
+
+  <ThingDef ParentName="BaseRPG7Grenade">
+    <defName>Bullet_RPG7Grenade_Frag</defName>
+	<thingClass>Combat_Realism.ProjectileCR_Explosive</thingClass>
+    <label>RPG-7 grenade (Frag)</label>
+    <graphicData>
+		<texPath>Things/Projectile/RPG/Fragrpg</texPath>
+		<graphicClass>Graphic_Single</graphicClass>
+	</graphicData>
+    <projectile>
+      <explosionRadius>1.5</explosionRadius>
+      <damageDef>Bomb</damageDef>
+      <damageAmountBase>50</damageAmountBase>
+    </projectile>
+    <comps>
+      <li Class="Combat_Realism.CompProperties_ExplosiveCR">
+        <fragRange>10</fragRange>
+        <fragments>
+          <Fragment_GrenadeFragSmall>300</Fragment_GrenadeFragSmall>
+          <Fragment_GrenadeFragMedium>180</Fragment_GrenadeFragMedium>
+          <Fragment_GrenadeFragLarge>60</Fragment_GrenadeFragLarge>
+        </fragments>
+	    <soundExplode>Explosion_Bomb</soundExplode>
+      </li>
+    </comps>
+  </ThingDef>
+  
+  
+  <!-- ================== SPG-9 Grenade ================== -->
+
+	<ThingDef Name="BaseSPG9Grenade" ParentName="BaseBullet" Abstract="true">
+		<projectile>
+			<speed>80</speed>
+		</projectile>
+	</ThingDef>
+
+
+  <ThingDef ParentName="BaseSPG9Grenade">
+    <defName>Bullet_SPG9Grenade_Frag</defName>
+	<thingClass>Combat_Realism.ProjectileCR_Explosive</thingClass>
+    <label>SPG-9 grenade (Frag)</label>
+    <graphicData>
+		<texPath>Things/Projectile/RPG/spg9_73mm</texPath>
+		<graphicClass>Graphic_Single</graphicClass>
+	</graphicData>
+    <projectile>
+      <explosionRadius>3.2</explosionRadius>
+      <damageDef>Bomb</damageDef>
+      <damageAmountBase>55</damageAmountBase>
+    </projectile>
+    <comps>
+      <li Class="Combat_Realism.CompProperties_ExplosiveCR">
+        <fragRange>10</fragRange>
+        <fragments>
+          <Fragment_GrenadeFragSmall>300</Fragment_GrenadeFragSmall>
+          <Fragment_GrenadeFragMedium>200</Fragment_GrenadeFragMedium>
+          <Fragment_GrenadeFragLarge>80</Fragment_GrenadeFragLarge>
+        </fragments>
+	    <soundExplode>Explosion_Bomb</soundExplode>
+      </li>
+    </comps>
+  </ThingDef>
+  
+  <!-- ================== 84mm Grenade ================== -->
+
+	<ThingDef Name="Base84mmGrenade" ParentName="BaseBullet" Abstract="true">
+		<projectile>
+			<speed>80</speed>
+		</projectile>
+	</ThingDef>
+
+
+  <ThingDef ParentName="Base84mmGrenade">
+    <defName>Bullet_84mmGrenade_Frag</defName>
+	<thingClass>Combat_Realism.ProjectileCR_Explosive</thingClass>
+    <label>84mm grenade (Frag)</label>
+    <graphicData>
+		<texPath>Things/Projectile/RPG/he441d_84mm</texPath>
+		<graphicClass>Graphic_Single</graphicClass>
+	</graphicData>
+    <projectile>
+      <explosionRadius>1.5</explosionRadius>
+      <damageDef>Bomb</damageDef>
+      <damageAmountBase>50</damageAmountBase>
+    </projectile>
+    <comps>
+      <li Class="Combat_Realism.CompProperties_ExplosiveCR">
+        <fragRange>10</fragRange>
+        <fragments>
+          <Fragment_GrenadeFragSmall>300</Fragment_GrenadeFragSmall>
+          <Fragment_GrenadeFragMedium>180</Fragment_GrenadeFragMedium>
+          <Fragment_GrenadeFragLarge>60</Fragment_GrenadeFragLarge>
+        </fragments>
+	    <soundExplode>Explosion_Bomb</soundExplode>
+      </li>
+    </comps>
+  </ThingDef>
+  
+  
+  <!-- ================== 90mm Grenade ================== -->
+
+	<ThingDef Name="Base90mmGrenade" ParentName="BaseBullet" Abstract="true">
+		<projectile>
+			<speed>80</speed>
+		</projectile>
+	</ThingDef>
+
+
+  <ThingDef ParentName="Base90mmGrenade">
+    <defName>Bullet_90mmGrenade_Frag</defName>
+	<thingClass>Combat_Realism.ProjectileCR_Explosive</thingClass>
+    <label>90mm grenade (Flame)</label>
+    <graphicData>
+		<texPath>Things/Projectile/RPG/prozshmel_round</texPath>
+		<graphicClass>Graphic_Single</graphicClass>
+	</graphicData>
+    <projectile>
+      <explosionRadius>3.5</explosionRadius>
+      <damageDef>Flame</damageDef>
+      <damageAmountBase>50</damageAmountBase>
+	  <preExplosionSpawnThingDef>FilthFuel</preExplosionSpawnThingDef>
+      <explosionSpawnChance>2.27</explosionSpawnChance>
+    </projectile>
+    <comps>
+      <li Class="Combat_Realism.CompProperties_ExplosiveCR">
+        <fragRange>2</fragRange>
+        <fragments>
+          <Fragment_GrenadeFragSmall>100</Fragment_GrenadeFragSmall>
+          <Fragment_GrenadeFragMedium>40</Fragment_GrenadeFragMedium>
+          <Fragment_GrenadeFragLarge>10</Fragment_GrenadeFragLarge>
+        </fragments>
+	    <soundExplode>Explosion_Bomb</soundExplode>
+      </li>
+    </comps>
+  </ThingDef>
+
+
+</ThingDefs>

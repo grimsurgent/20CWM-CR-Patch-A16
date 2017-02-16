@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<Bullet_5dot56x45mm.label>约5.56x45毫米子弹</Bullet_5dot56x45mm.label>
+
+	<Gun_m27_cwm.label>M27 LAR</Gun_m27_cwm.label>
+
+	<Gun_m27_cwm.description>M27步兵自动步枪（IAR）具有较重，较长的枪管和一个扩展的弹夹，使更大量的火力压制的同时保留一稳定性。</Gun_m27_cwm.description>
+
+	<Gun_m16a1_cwm.label>M16A1</Gun_m16a1_cwm.label>
+
+	<Gun_m16a1_cwm.description>1964年M16进入美国军事服务，次年被多次使用在越南战争的丛林战。1969年M16A1取代M14步枪成为美军的标准步枪。</Gun_m16a1_cwm.description>
+
+	<Gun_c7a1_cwm.label>C7A1</Gun_c7a1_cwm.label>
+
+	<Gun_c7a1_cwm.description>加拿大C7步枪是一个加拿大的突击步枪，由柯尔特加拿大制造，阿玛莱特AR-15的一个变种，具有相似的设计和功能。</Gun_c7a1_cwm.description>
+
+	<Gun_sg550_cwm.label>SG 550</Gun_sg550_cwm.label>
+
+	<Gun_sg550_cwm.description>SG 550突击步枪由瑞士制造的。</Gun_sg550_cwm.description>
+
+	<Gun_l85a2_cwm.label>L85A2</Gun_l85a2_cwm.label>
+
+	<Gun_l85a2_cwm.description>L85A2是英国武装部队标准的突击步枪.</Gun_l85a2_cwm.description>
+
+	<Gun_steyraug_cwm.label>Steyr AUG</Gun_steyraug_cwm.label>
+
+	<Gun_steyraug_cwm.description>自从它1977年的奥地利军队的标准步枪采用，它取得了巨大的成功作为一个出口，军方大赞其耐用性和出色的处理。</Gun_steyraug_cwm.description>
+
+	<Gun_minimi_cwm.label>FN Minimi</Gun_minimi_cwm.label>
+
+	<Gun_minimi_cwm.description>Minimi（简称法国：迷你机枪）是比利时5.56mm轻机枪的基础上做出的改进。1974出产，现在75个国家都在使用。</Gun_minimi_cwm.description>
+
+	<Gun_scarl_cwm.label>Mk.16 SCAR-L</Gun_scarl_cwm.label>
+
+	<Gun_scarl_cwm.description>相比其20发的卡宾枪出色的多，Mk.16 SCAR-L有较远的射击范围和扩展的枪管。</Gun_scarl_cwm.description>
+
+	<Gun_m249_cwm.label>M249</Gun_m249_cwm.label>
+
+	<Gun_m249_cwm.description>M249在自巴拿马1989入侵做出了较高的贡献。一个单一的M249可以提供压制火力相当于15步兵。</Gun_m249_cwm.description>
+
+	<Gun_m416_cwm.label>M416</Gun_m416_cwm.label>
+
+	<Gun_m416_cwm.description>M416是由德国著名的武器制造商发展成为一个更可靠的经典M16系列。</Gun_m416_cwm.description>
+
+	<Gun_g36a1_cwm.label>G36A1</Gun_g36a1_cwm.label>
+
+	<Gun_g36a1_cwm.description>G36A1突击步枪使用的是56×45毫米的子弹，制造在上世纪90年代初由德国黑克勒制造取代了G3步枪。</Gun_g36a1_cwm.description>
+
+	<Gun_m4a2_cwm.label>M4A2</Gun_m4a2_cwm.label>
+
+	<Gun_m4a2_cwm.description>射程和稳定性似于M16，M4卡宾枪来取代在前线的手枪和冲锋枪。</Gun_m4a2_cwm.description>
+
+	<Gun_f2000_cwm.label>FN F2000</Gun_f2000_cwm.label>
+
+	<Gun_f2000_cwm.description>安装各种附件的战术配置，是比利时制造的无托突击步枪，该步枪仍有特殊部队在使用。</Gun_f2000_cwm.description>
+
+	<Gun_famas_cwm.label>FAMAS G2</Gun_famas_cwm.label>
+
+	<Gun_famas_cwm.description>法国军队标准步枪。</Gun_famas_cwm.description>
+
+	<Gun_tar21_cwm.label>TAR-21</Gun_tar21_cwm.label>
+
+	<Gun_tar21_cwm.description>Tavor系列突击步枪是以色列制造的，可在半自动和全自动射击模式之间切换。</Gun_tar21_cwm.description>
+
+	<Gun_xm8_cwm.label>XM8</Gun_xm8_cwm.label>
+
+	<Gun_xm8_cwm.description>此步枪是由德国小型武器制造商黑克勒和科赫设计的，拥有者G36步枪的特色。</Gun_xm8_cwm.description>
+
+	<Bullet_5dot45x39mm.label>5.45x39毫米子弹</Bullet_5dot45x39mm.label>
+
+	<Gun_ak74_cwm.label>AK74</Gun_ak74_cwm.label>
+
+	<Gun_ak74_cwm.description>AK74是军用的标准步枪，威力大后坐力也同样大。</Gun_ak74_cwm.description>
+
+	<Gun_aks74_cwm.label>AKS74</Gun_aks74_cwm.label>
+
+	<Gun_aks74_cwm.description>AKS74是AK74的改进版，AKS74是标准的突击步枪拥有着坚固耐用是可靠的中程武器</Gun_aks74_cwm.description>
+
+	<Gun_an94_cwm.label>AN-94</Gun_an94_cwm.label>
+
+	<Gun_an94_cwm.description>AN-94拥有这三连发点式射击，拥有着AK系列武器的威力。</Gun_an94_cwm.description>
+
+	<Gun_aek971_cwm.label>AEK-971</Gun_aek971_cwm.label>
+
+	<Gun_aek971_cwm.description>AEK971自动步枪是由前苏联/俄罗斯 Kovrov Machinebuilding 厂设计并且制造。俄AEK-971有望全面取代AK系列自动步枪。</Gun_aek971_cwm.description>
+
+	<Gun_aks74u_cwm.label>AKS74u</Gun_aks74u_cwm.label>
+
+	<Gun_aks74u_cwm.description>AK-74于70年代初装备苏联军队，逐步取代AKM，首次露面是在1974年11月7日的莫斯科红场阅兵式上。</Gun_aks74u_cwm.description>
+
+	<Gun_ak107_cwm.label>AK107</Gun_ak107_cwm.label>
+
+	<Gun_ak107_cwm.description>AK107突击步枪使用5.45×39毫米子弹是由俄罗斯制造的枪支，由AK-100系列开发而来。</Gun_ak107_cwm.description>
+
+	<Bullet_7dot62x39mm.label>7.62x39毫米子弹</Bullet_7dot62x39mm.label>
+
+	<Gun_akm_cwm.label>AKM</Gun_akm_cwm.label>
+
+	<Gun_akm_cwm.description>AKM突击步枪是由Mikhail Kalashnikov设计的使用的是7.62毫米子弹，它是AK系列改进而的。</Gun_akm_cwm.description>
+
+	<Gun_aks_cwm.label>AKMS</Gun_aks_cwm.label>
+
+	<Gun_aks_cwm.description>AKMS是由AKM改进而来的，并配备了一个可折叠的金属枪托。</Gun_aks_cwm.description>
+
+	<Gun_ak104_cwm.label>AK104</Gun_ak104_cwm.label>
+
+	<Gun_ak104_cwm.description>AK-104是俄罗斯生产的卡宾枪，是AK-74M突击步枪的缩短版本。</Gun_ak104_cwm.description>
+
+	<Gun_sks_cwm.label>SKS</Gun_sks_cwm.label>
+
+	<Gun_sks_cwm.description>SKS步枪是由苏联红军在1945年对中国的56型步枪改进而来的，SKS是民间流行的步枪，并仍能在世界各地的武装部队发现这种枪支。</Gun_sks_cwm.description>
+
+	<Bullet_7dot62x51mm_nato.label>7.62x51毫米子弹</Bullet_7dot62x51mm_nato.label>
+
+	<Gun_fal_cwm.label>FN FAL</Gun_fal_cwm.label>
+
+	<Gun_fal_cwm.description>FN轻型自动步枪由比利时军火制造商法布里克国立德公司生产的（FN）。</Gun_fal_cwm.description>
+
+	<Gun_scarh_cwm.label>Mk.17 SCAR-H</Gun_scarh_cwm.label>
+
+	<Gun_scarh_cwm.description>mk17即特种部队战斗突击步枪，是FNH为满足美军特战司令部的SCAR标案而制造，有轻型和重型两种版本，都可以改装成“狙击型态”或“近战型态”，有强度高，可靠性好的优点。</Gun_scarh_cwm.description>
+
+	<Gun_galil52_cwm.label>Galil ACE 52</Gun_galil52_cwm.label>
+
+	<Gun_galil52_cwm.description>ACE是一个以色列的加利尔突击步枪。</Gun_galil52_cwm.description>
+
+	<Gun_sr25_cwm.label>SR-25</Gun_sr25_cwm.label>
+
+	<Gun_sr25_cwm.description>SR-25半自动步枪（Stoner rifle-25）是一种精准步枪由尤金·M·斯通纳和奈特武器公司生产。</Gun_sr25_cwm.description>
+
+	<Gun_g3a3_cwm.label>G3A3</Gun_g3a3_cwm.label>
+
+	<Gun_g3a3_cwm.description>G3战斗步枪使用的是7.62×51毫米子弹，此枪1950年制造。</Gun_g3a3_cwm.description>
+
+	<Gun_m60e3_cwm.label>M60E3</Gun_m60e3_cwm.label>
+
+	<Gun_m60e3_cwm.description>M60，美国军方机枪，口径7.62毫米，M60使用7.62×51毫米子弹。</Gun_m60e3_cwm.description>
+
+	<Gun_m240b_cwm.label>M240B</Gun_m240b_cwm.label>
+
+	<Gun_m240b_cwm.description>M240B是美国陆军和海军陆战队目前的制式标准步兵中型机枪，它同时也在美国空军、海军和海岸警卫队之中服役，是1990年代中开始装备的M240型号。 </Gun_m240b_cwm.description>
+
+	<Gun_mg3_cwm.label>MG 3</Gun_mg3_cwm.label>
+
+	<Gun_mg3_cwm.description>MG 3是德国通用机枪子弹为7.62×51毫米子弹。武器的设计是源于二战时期的MG 42通用机枪。</Gun_mg3_cwm.description>
+
+	<Gun_m39_cwm.label>M39 EMR</Gun_m39_cwm.label>
+
+	<Gun_m39_cwm.description>美国海军的Mark 14EBR增强型战斗步枪（Enhanced Battle Rifle——EBR）是M14步枪的变型枪，最初是由美国海军特种作战司令部根据海豹突击队的要求所制造。</Gun_m39_cwm.description>
+
+	<Gun_m14_cwm.label>M14</Gun_m14_cwm.label>
+
+	<Gun_m14_cwm.description>M14是美国在越战早期使用的自动步枪，由春田兵工厂设计及生产，在越战时被M16突击步枪取代，但其后的改良衍生型重新在战场上服役。</Gun_m14_cwm.description>
+
+	<Bullet_9x39mm.label>9x39毫米子弹</Bullet_9x39mm.label>
+
+	<Gun_vintorez_cwm.label>VSS Vintorez</Gun_vintorez_cwm.label>
+
+	<Gun_vintorez_cwm.description>VSS特种狙击步枪，又名Vintorez（“螺纹剪裁机”），是一种由前苏联开发的微声狙击步枪。</Gun_vintorez_cwm.description>
+
+	<Gun_val_cwm.label>AS VAL</Gun_val_cwm.label>
+
+	<Gun_val_cwm.description>AC VAL特种突击步枪，是俄罗斯新推出的一种微声、无枪口焰步枪。该枪发射增强穿甲弹头枪弹，可用于杀伤400m内穿有防弹衣的人员，击穿5mm厚钢板或软蒙皮物质。</Gun_val_cwm.description>
+
+	<Gun_vsk94_cwm.label>VSK-94</Gun_vsk94_cwm.label>
+
+	<Gun_vsk94_cwm.description>VSK94狙击步枪是一种很受俄罗斯陆军侦察部队和反恐小分队欢迎的狙击步枪。它带上满弹匣子弹才重3.93公斤，比起其它狙击步枪，它的体积明显要小，因而它携带使用都很方便。</Gun_vsk94_cwm.description>
+
+	<Bullet_7dot62x54mm_s.label>7.62x54毫米子弹</Bullet_7dot62x54mm_s.label>
+
+	<Gun_svu_cwm.label>SVU</Gun_svu_cwm.label>
+
+	<Gun_svu_cwm.description>SVU狙击步枪基本上是SVD的无托结构缩短型，基型枪配装折叠式机械瞄准具，安装PSO-1光学瞄准镜的为ОЦ-03型。</Gun_svu_cwm.description>
+
+	<Gun_sv98_cwm.label>SV98</Gun_sv98_cwm.label>
+
+	<Gun_sv98_cwm.description>俄罗斯SV-98狙击步枪是俄罗斯在1998年研制的一种狙击步枪。</Gun_sv98_cwm.description>
+
+	<Gun_svd_cwm.label>SVD</Gun_svd_cwm.label>
+
+	<Gun_svd_cwm.description>前苏联军队在1963年选中了由德拉贡诺夫设计的狙击步枪代替莫辛-纳甘狙击步枪，通过进一步的改进后，在1967年开始装备部队</Gun_svd_cwm.description>
+
+	<Bullet_7dot62x63mm.label>7.62x63毫米子弹</Bullet_7dot62x63mm.label>
+
+	<Gun_winchester70_cwm.label>Winchester Model 70</Gun_winchester70_cwm.label>
+
+	<Gun_winchester70_cwm.description>温彻斯特70型运动步枪。它在美国的体育文化的一个标志性的枪支。</Gun_winchester70_cwm.description>
+
+	<Gun_r700_cwm.label>Remington 700</Gun_r700_cwm.label>
+
+	<Gun_r700_cwm.description>雷明登700旋转后拉式枪机步枪自1962年推出，就以其精确性和威力受到称赞。浮置枪管、极敏感的扳机及严格制造公差下生产的优质枪管，使雷明登700如其广告词所称的那样：“它是世界上最强大的旋转后拉式枪机步枪。”</Gun_r700_cwm.description>
+
+	<Gun_m40a3_cwm.label>M40A3</Gun_m40a3_cwm.label>
+
+	<Gun_m40a3_cwm.description>M40A3型7.62毫米狙击步枪，使用北约7.62-51子弹，加10倍固定式瞄准镜，1/1000英寸十字刻度，有效射程1000码。</Gun_m40a3_cwm.description>
+
+	<Bullet_7dot62x51mm_s.label>7.62x51毫米子弹</Bullet_7dot62x51mm_s.label>
+
+	<Gun_l96a1_cmw.label>L96A1</Gun_l96a1_cmw.label>
+
+	<Gun_l96a1_cmw.description>L96A1是英军在上80年代中期开始采用的新枪型，也叫AWP狙击步枪，（意为北极作战警察）其设计思想是不管枪管清洁与否，都要做到首发命中。</Gun_l96a1_cmw.description>
+
+	<Gun_frf2_cmw.label>FR F2</Gun_frf2_cmw.label>
+
+	<Gun_frf2_cmw.description>FR-F2是 FR-F1的改良型，装备有防热设置，再长时间被太阳晒也不会影响枪。配备有8倍率Scope，使用7.62mm子弹的狙击枪。精度高、威力大、声音小，适合中远距离隐藏偷袭。</Gun_frf2_cmw.description>
+
+	<Gun_psg1_cmw.label>HK PSG1</Gun_psg1_cmw.label>
+
+	<Gun_psg1_cmw.description>HK PSG1是德国在G3系列突击步枪的基础上，以同时对付多名恐怖分子为目的而改进设计的狙击步枪，它号称是全世界最准确的半自动步枪，同时也是最昂贵的枪。</Gun_psg1_cmw.description>
+
+	<Bullet_7dot62x51mm_r.label>7.62x51毫米子弹</Bullet_7dot62x51mm_r.label>
+
+	<Gun_pecheneg_cwm.label>PKP PECHENEG</Gun_pecheneg_cwm.label>
+
+	<Gun_pecheneg_cwm.description>Pecheneg目前已经小批量生产并正在俄罗斯军队被俄罗斯特种部队和其他一小部份部队所使用。</Gun_pecheneg_cwm.description>
+
+	<Gun_pkm_cmw.label>PKM</Gun_pkm_cmw.label>
+
+	<Gun_pkm_cmw.description>PK系列通用机枪是卡拉什尼科夫于20世纪50年代根据AK47突击步枪工作原理设计的通用机枪，1959年少量装备苏军的机械化步兵连。</Gun_pkm_cmw.description>
+
+	<Bullet_9x19mm_p.label>9x19毫米子弹</Bullet_9x19mm_p.label>
+
+	<Gun_mp5a2_cwm.label>MP5А2</Gun_mp5a2_cwm.label>
+
+	<Gun_mp5a2_cwm.description>是一个德国设计的9mm冲锋枪，在上世纪60年代开发生产。</Gun_mp5a2_cwm.description>
+
+	<Gun_mp5sd_cwm.label>MP5SD</Gun_mp5sd_cwm.label>
+
+	<Gun_mp5sd_cwm.description>MP5SD是消音型冲锋枪，由于反恐怖部队对恐怖分子的攻击作战方式是必须敌人在未觉察出攻击位置时，一下子攻入其中心部位，因此MP5SD一出现就受到反恐怖部队的重视。</Gun_mp5sd_cwm.description>
+
+	<Gun_uzi_cwm.label>UZI Carbine</Gun_uzi_cwm.label>
+
+	<Gun_uzi_cwm.description>Uzi卡宾枪是Uzi冲锋枪的一种长枪管，半自动的民用变形枪，采用16英寸（410mm）枪管，以符合美国对民用武器的相关法律要求，只能半自动射击，枪机内安装浮动击针，且闭膛待击。</Gun_uzi_cwm.description>
+
+	<Gun_pp19_cwm.label>PP-19</Gun_pp19_cwm.label>
+
+	<Gun_pp19_cwm.description>基本设计沿用AK-74，但为自由枪机式自动原理。由最多可装64颗子弹的弹筒供弹（改进型PP-19-1“勇士”由弹匣供弹），其位于枪身前下方，可充当护木，还有隔热效果，重心位置也很适当。有多种使用不同口径弹药的型号。</Gun_pp19_cwm.description>
+
+	<Gun_m93r_cwm.label>Beretta 93R</Gun_m93r_cwm.label>
+
+	<Gun_m93r_cwm.description>伯莱塔M93R式9mm冲锋手枪是意大利伯莱塔公司为意大利特种部队研制的一种全自动手枪，现已停产。</Gun_m93r_cwm.description>
+
+	<Gun_scorpionvz68_cwm.label>Scorpion Vz.68</Gun_scorpionvz68_cwm.label>
+
+	<Gun_scorpionvz68_cwm.description>“蝎”式冲锋枪在1950年后期开始的研制，由Miroslav Rybá（1924-1970）设计，其目的是为非一线战斗步兵单位提供一种重量轻的但比手枪更有效的个人防卫武器。</Gun_scorpionvz68_cwm.description>
+
+	<Gun_ump_cwm.label>HK UMP</Gun_ump_cwm.label>
+
+	<Gun_ump_cwm.description>于1998年所开发完成的一款冲锋枪，由于性能优异，后座力小，现由多个特种部队及特警队采用。</Gun_ump_cwm.description>
+
+	<Bullet_12caliber.label>12毫米口径散弹</Bullet_12caliber.label>
+
+	<Gun_m1014_cwm.label>M1014</Gun_m1014_cwm.label>
+
+	<Gun_m1014_cwm.description>伯奈利M4是第一枝由伯奈利公司生产的气动式及转拴式枪机战斗霰弹枪，因为被美军所采用并命名为M1014。</Gun_m1014_cwm.description>
+
+	<Gun_saiga12_cwm.label>SAIGA 12K</Gun_saiga12_cwm.label>
+
+	<Gun_saiga12_cwm.description>Saiga-12霰弹枪由伊孜玛什公司在1990年代早期研制，是Saiga系列半自动霰弹枪和步枪枪族的一员，其结构和原理基于AK突击步枪，包括长行程活塞导气系统，两个大形闭锁突笋的回转式枪机，盒形弹匣供弹。</Gun_saiga12_cwm.description>
+
+	<Gun_dao12_cwm.label>DAO-12</Gun_dao12_cwm.label>
+
+	<Gun_dao12_cwm.description>原来在南非开发的dao-12本质上是一个左轮手枪和散弹墙的结合，Ps：CF里的打击者。</Gun_dao12_cwm.description>
+
+	<Gun_jackhammer_cwm.label>MK3A1</Gun_jackhammer_cwm.label>
+
+	<Gun_jackhammer_cwm.description>MK3A1是一支由Pancor公司设计的无托结构全自动霰弹枪（战斗霰弹枪），发射12号口径霰弹，Ps:这是CF里的气锤。</Gun_jackhammer_cwm.description>
+
+	<Gun_usas12_cwm.label>USAS-12</Gun_usas12_cwm.label>
+
+	<Gun_usas12_cwm.description>USAS-12是由美国的吉尔伯特设备有限公司在1980年代设计，交由韩国大宇集团所生产的一种全自动战斗霰弹枪。</Gun_usas12_cwm.description>
+
+	<Gun_aa12_cwm.label>AA12</Gun_aa12_cwm.label>
+
+	<Gun_aa12_cwm.description>AA-12是一款全自动霰弹枪，由美国MPS公司研发。理论上它可以在一分钟内发射300发霰弹，如果有人觉得被一颗霰弹击中还不够恐怖的话，想想在一秒钟之内被六颗霰弹击中的感觉吧。</Gun_aa12_cwm.description>
+
+	<Gun_remington870_cwm.label>Remington 870</Gun_remington870_cwm.label>
+
+	<Gun_remington870_cwm.description>remington870,全称Remington Model 870，雷明登870，又称M870。由美国雷明登制造的泵动散弹枪。</Gun_remington870_cwm.description>
+
+	<Gun_spas12_cwm.label>SPAS-12</Gun_spas12_cwm.label>
+
+	<Gun_spas12_cwm.description>SPAS-12多功能霰弹枪是弗兰齐公司在1970年代后期设计的一种特种用途、军队和警察的近战武器，它最大的特点是可以选择半自动装填或传统的泵动装填方式操作，以适合不同的任务需求和弹药类型。</Gun_spas12_cwm.description>
+
+	<Bullet_Grenade_rpg7_93mm.label>93毫米火箭推进榴弹</Bullet_Grenade_rpg7_93mm.label>
+
+	<Gun_rpg7_cwm.label>RPG-7</Gun_rpg7_cwm.label>
+
+	<Gun_rpg7_cwm.description>RPG-7系列反坦克火箭筒是苏联研制的一型单兵反坦克武器，从研制、服役到现在，已有半个世纪的时间了。</Gun_rpg7_cwm.description>
+
+	<Bullet_7dot62x54mm_m.label>7.62x54毫米子弹</Bullet_7dot62x54mm_m.label>
+
+	<Gun_mosin_cwm.label>Mosin–Nagant</Gun_mosin_cwm.label>
+
+	<Gun_mosin_cwm.description>莫辛-纳甘步枪是在俄国政府委托下在1880年代后期至1890年代早期研制的步枪，并由俄国军队在1891年正式采用，定型为1891型3线口径(7.62x54mmR)步枪。</Gun_mosin_cwm.description>
+
+	<Bullet_7dot92x57mm.label>7.92x57毫米子弹</Bullet_7dot92x57mm.label>
+
+	<Gun_gewehr98_cwm.label>Gewehr 98</Gun_gewehr98_cwm.label>
+
+	<Gun_gewehr98_cwm.description>由于德国军队装备了88式委员会步枪，促使保罗·毛瑟不断研制新型号和改进旧型号，而这些型号也被出口到世界各地，并参与了许多战争。</Gun_gewehr98_cwm.description>
+
+	<Bullet_7dot92x57mm_mg.label>7.62x57步枪子弹</Bullet_7dot92x57mm_mg.label>
+
+	<Gun_mg42_cwm.label>MG 42</Gun_mg42_cwm.label>
+
+	<Gun_mg42_cwm.description>MG42式7.92毫米通用机枪原称MG34/41机枪。1943年的突尼斯会战德军首次装备该枪，命名为MG42通用机枪，格鲁诺博士的主要贡献是大量采用冲铆件，大大提高了武器的生产效率，二战结束时，该枪已生产423600挺。</Gun_mg42_cwm.description>
+
+	<Bullet_5dot7x28mm.label>5.7x28毫米子弹</Bullet_5dot7x28mm.label>
+
+	<Gun_p90_cwm.label>FN P90</Gun_p90_cwm.label>
+
+	<Gun_p90_cwm.description>和五七式手枪一样，p90使用5.7mm的高速率子弹，沉重的弹匣里可以装下50发子弹，是它的一个巨大的优点，同时，与tmp一样有着14发每秒的高射速。</Gun_p90_cwm.description>
+
+	<Bullet_9x19mm.label>9x19毫米子弹</Bullet_9x19mm.label>
+
+	<Gun_m9_cwm.label>Beretta 92</Gun_m9_cwm.label>
+
+	<Gun_m9_cwm.description>9毫米伯莱塔92FS手枪是由意大利皮雷西亚省的伯莱塔公司于上世纪70年代初开始研制的，70年代中期开始装备部队。</Gun_m9_cwm.description>
+
+	<Bullet_11dot43x23mm.label>11.43x23毫米子弹</Bullet_11dot43x23mm.label>
+
+	<Gun_m1911_cwm.label>M1911</Gun_m1911_cwm.label>
+
+	<Gun_m1911_cwm.description>M1911曾经是美军在战场上常见的武器，经历了一战、二战、朝鲜战争、越战以及波斯湾战争。</Gun_m1911_cwm.description>
+
+	<Bullet_10dot9x33mm_r.label>10.9×33毫米子弹</Bullet_10dot9x33mm_r.label>
+
+	<Gun_magnum44_cwm.label>.44 Magnum</Gun_magnum44_cwm.label>
+
+	<Gun_magnum44_cwm.description>在比较著名的美剧行尸走肉中男主角瑞克就是使用此枪，其实是把很好的枪,据说它的杀伤力在近距离可以击毙一只野兽。</Gun_magnum44_cwm.description>
+
+	<Gun_deserteagle_cwm.label>沙漠之鹰</Gun_deserteagle_cwm.label>
+
+	<Gun_deserteagle_cwm.description>沙漠之鹰，于1980年由MRI发布；原型枪则在1981年完成；而最终定型则是在以色列军事工业公司（IMI）。在经过数以千计的射击试验之后，第一把具有完全功能的0.357口径沙漠之鹰终于面世。</Gun_deserteagle_cwm.description>
+
+	<Bullet_m406_40mm.label>M406 40低速榴弹</Bullet_m406_40mm.label>
+
+	<Gun_m32_cwm.label>M32 Milkor</Gun_m32_cwm.label>
+
+	<Gun_m32_cwm.description>M32 Milkor榴弹发射器是目前世界上产量最大的40mm连发榴弹发射器携带武器，由南非阿姆斯科公司（Armscor, ZA）在1981年研制，在1983年投产，在南非国防军服役超过二十年，最初命名为Y2，后来正式改名为MGL。阿姆斯科后改名为米尔科姆公司（Milkor, ZA）。</Gun_m32_cwm.description>
+
+	<Gun_m79_cwm.label>M79</Gun_m79_cwm.label>
+
+	<Gun_m79_cwm.description>M79式榴弹发射器是一种单发射击、枪管滑动开膛、后膛装填的肩射武器，结构简单坚固，使用方便，射击精度较好，可有效攻击150m内的点目标和300m内的面目标。</Gun_m79_cwm.description>
+
+	<Bullet_he441d_84mm.label>84毫米反坦克弹</Bullet_he441d_84mm.label>
+
+	<Gun_carl_gustaf_m2_cwm.label>Carl Gustaf M2</Gun_carl_gustaf_m2_cwm.label>
+
+	<Gun_carl_gustaf_m2_cwm.description>卡尔·古斯塔夫M2是单兵便携式反坦发射器，可发射84毫米的反坦弹 </Gun_carl_gustaf_m2_cwm.description>
+
+	<Bullet_5dot56x45mm_s.label>5.56x45毫米子弹</Bullet_5dot56x45mm_s.label>
+
+	<Gun_steyrscout_cwm.label>Steyr Scout</Gun_steyrscout_cwm.label>
+
+	<Gun_steyrscout_cwm.description>斯太尔Scout是一种很轻的精确射击步枪，全枪共129个零件，枪管细长，并大量采用新材料，因此重量很轻。</Gun_steyrscout_cwm.description>
+
+</LanguageData>

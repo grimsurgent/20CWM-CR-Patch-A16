@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ThingCategoryDefs>
+
+    <ThingCategoryDef>
+      <defName>AmmoRifles</defName>
+      <label>rifle</label>
+      <parent>Ammo</parent>
+    </ThingCategoryDef>
+
+    <ThingCategoryDef>
+      <defName>Ammo545x39mm</defName>
+      <label>5.45x39mm</label>
+      <parent>AmmoRifles</parent>
+    </ThingCategoryDef>  
+	
+	<ThingCategoryDef>
+      <defName>Ammo9x39mm</defName>
+      <label>9x39mm</label>
+      <parent>AmmoRifles</parent>
+    </ThingCategoryDef>  
+	
+	<ThingCategoryDef>
+      <defName>Ammo792x57mm</defName>
+      <label>7.92x57mm</label>
+      <parent>AmmoRifles</parent>
+    </ThingCategoryDef>  
+
+</ThingCategoryDefs>

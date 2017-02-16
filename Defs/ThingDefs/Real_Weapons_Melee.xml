@@ -1,0 +1,532 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ThingDefs>
+
+  <ThingDef Name="BaseMeleeWeapon" Abstract="True">
+    <category>Item</category>
+    <thingClass>ThingWithComps</thingClass>
+    <equipmentType>Primary</equipmentType>
+    <pathCost>10</pathCost>
+    <useHitPoints>True</useHitPoints>
+    <selectable>True</selectable>
+    <graphicData>
+      <onGroundRandomRotateAngle>35</onGroundRandomRotateAngle>
+    </graphicData>
+    <drawGUIOverlay>true</drawGUIOverlay>
+    <statBases>
+      <MaxHitPoints>100</MaxHitPoints>
+      <Flammability>1.0</Flammability>
+      <DeteriorationRate>0.5</DeteriorationRate>
+      <SellPriceFactor>0.75</SellPriceFactor>
+    </statBases>
+    <altitudeLayer>Item</altitudeLayer>
+    <alwaysHaulable>True</alwaysHaulable>
+    <tickerType>Never</tickerType>
+    <techLevel>Industrial</techLevel>
+    <weaponTags>
+      <li>Melee</li>
+    </weaponTags>
+    <thingCategories>
+      <li>WeaponsMelee</li>
+    </thingCategories>
+    <comps>
+      <li>
+        <compClass>CompForbiddable</compClass>
+      </li>
+      <li>
+        <compClass>CompEquippable</compClass>
+      </li>
+    </comps>
+  </ThingDef> 
+  
+  
+  <!-- ============================================================== -->
+
+  
+  <ThingDef ParentName="BaseMeleeWeapon">
+    <defName>hunting_knife</defName>
+    <label>Hunting Knife</label>
+    <description>Hunting knife</description>
+    <graphicData>
+      <texPath>Things/Item/Equipment/hunting_knife</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+       <weaponTags>
+           <li>WeaponsMelee</li>
+    </weaponTags>
+    <tradeability>Sellable</tradeability>
+     <statBases>
+	 <MarketValue>120</MarketValue>       
+     <MeleeWeapon_DamageAmount>6</MeleeWeapon_DamageAmount>
+     <DeteriorationRate>0.1</DeteriorationRate>
+     <MeleeWeapon_Cooldown>1.25</MeleeWeapon_Cooldown>
+     <Flammability>0</Flammability>
+     </statBases>
+     <equippedAngleOffset>-25</equippedAngleOffset>
+     <verbs>
+     <li>
+     <verbClass>Verb_MeleeAttack</verbClass>
+     <hasStandardCommand>true</hasStandardCommand>
+     <meleeDamageDef>Cut</meleeDamageDef>
+     </li>
+     </verbs>
+     </ThingDef>
+	 
+	 
+	 <ThingDef ParentName="BaseMeleeWeapon">
+    <defName>machete</defName>
+    <label>Machete</label>
+    <description>Machete</description>
+    <graphicData>
+      <texPath>Things/Item/Equipment/machete</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+       <weaponTags>
+           <li>WeaponsMelee</li>
+    </weaponTags>
+    <tradeability>Sellable</tradeability>
+     <statBases>
+	 <MarketValue>230</MarketValue>       
+     <MeleeWeapon_DamageAmount>10</MeleeWeapon_DamageAmount>
+     <DeteriorationRate>0.1</DeteriorationRate>
+     <MeleeWeapon_Cooldown>2.0</MeleeWeapon_Cooldown>
+     <Flammability>0</Flammability>
+     </statBases>
+     <equippedAngleOffset>-25</equippedAngleOffset>
+     <verbs>
+     <li>
+     <verbClass>Verb_MeleeAttack</verbClass>
+     <hasStandardCommand>true</hasStandardCommand>
+     <meleeDamageDef>Cut</meleeDamageDef>
+     </li>
+     </verbs>
+     </ThingDef>
+
+
+ <ThingDef ParentName="BaseMeleeWeapon">
+    <defName>wrench</defName>
+    <label>Wrench</label>
+    <description>Wrench.</description>
+    <graphicData>
+      <texPath>Things/Item/Equipment/wrench</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+      <weaponTags>
+        <li>WeaponsMelee</li>
+    </weaponTags>
+    <tradeability>Sellable</tradeability>
+     <statBases>
+     <MarketValue>150</MarketValue>       
+     <MeleeWeapon_DamageAmount>9</MeleeWeapon_DamageAmount>
+     <DeteriorationRate>0.1</DeteriorationRate>
+     <MeleeWeapon_Cooldown>2</MeleeWeapon_Cooldown>
+     <Flammability>0</Flammability>
+	 </statBases>
+     <equippedAngleOffset>-25</equippedAngleOffset>
+     <verbs>
+     <li>
+     <verbClass>Verb_MeleeAttack</verbClass>
+     <hasStandardCommand>true</hasStandardCommand>
+     <meleeDamageDef>Blunt</meleeDamageDef>
+     </li>
+     </verbs>
+	 <equippedStatOffsets>
+      <WorkSpeedGlobal>0.2</WorkSpeedGlobal>
+    </equippedStatOffsets>
+     </ThingDef>
+	 
+	 
+	 
+  <ThingDef Name="BaseWeaponNeolithic" Abstract="True">
+    <category>Item</category>
+    <thingClass>ThingWithComps</thingClass>
+    <equipmentType>Primary</equipmentType>
+    <pathCost>10</pathCost>
+    <useHitPoints>True</useHitPoints>
+    <selectable>True</selectable>
+    <graphicData>
+      <onGroundRandomRotateAngle>35</onGroundRandomRotateAngle>
+    </graphicData>
+    <drawGUIOverlay>true</drawGUIOverlay>
+    <statBases>
+      <MaxHitPoints>100</MaxHitPoints>
+      <Flammability>1.0</Flammability>
+      <DeteriorationRate>2</DeteriorationRate>
+      <SellPriceFactor>0.5</SellPriceFactor>
+    </statBases>
+    <altitudeLayer>Item</altitudeLayer>
+    <alwaysHaulable>True</alwaysHaulable>
+    <tickerType>Never</tickerType>
+    <techLevel>Neolithic</techLevel>
+    <weaponTags>
+      <li>Neolithic</li>
+    </weaponTags>
+    <thingCategories>
+      <li>WeaponsRanged</li>
+    </thingCategories>
+    <comps>
+	<li Class="CompProperties_Forbiddable"/>
+      <li>
+        <compClass>CompForbiddable</compClass>
+      </li>
+      <li>
+        <compClass>CompEquippable</compClass>
+      </li>
+      <li>
+        <compClass>CompQuality</compClass>
+      </li>
+    </comps>
+	<recipeMaker>
+      <workSpeedStat>SmithingSpeed</workSpeedStat>
+      <workSkill>Crafting</workSkill>
+      <recipeUsers>
+        <li>ElectricSmithy</li>
+        <li>FueledSmithy</li>
+      </recipeUsers>
+      <effectWorking>Smelt</effectWorking>
+      <unfinishedThingDef>UnfinishedWeapon</unfinishedThingDef>
+    </recipeMaker>
+  </ThingDef>
+  
+
+
+  <ThingDef Name="BaseProjectileNeolithic" Abstract="True">
+    <category>Projectile</category>
+    <tickerType>Normal</tickerType>
+    <altitudeLayer>Projectile</altitudeLayer>
+    <thingClass>Bullet</thingClass>
+    <label>crossbow bolt</label>
+    <useHitPoints>False</useHitPoints>
+    <neverMultiSelect>True</neverMultiSelect>
+    <graphicData>
+      <shaderType>Transparent</shaderType>
+    </graphicData>
+  </ThingDef>
+  
+   <!-- ============================================================== -->
+  
+  
+   <ThingDef ParentName="BaseWeaponNeolithic">
+    <defName>Gun_newcrossbow</defName>
+    <label>Crossbow with optics</label>
+    <description>Crossbow with optics</description>
+    <graphicData>
+      <texPath>Things/Item/Equipment/Gun_newcrossbow</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <soundInteract>BowSmall</soundInteract>
+	<costList>
+      <WoodLog>160</WoodLog>
+	  <Steel>110</Steel>
+    </costList>
+    <statBases>
+	  <WorkToMake>34000</WorkToMake>
+      <MarketValue>230</MarketValue>
+      <AimEfficiency>1.35</AimEfficiency>
+      <ShotSpread>1</ShotSpread>
+      <SwayFactor>2</SwayFactor>
+      <Bulk>5.00</Bulk>
+      <Mass>4.00</Mass>
+      <RangedWeapon_Cooldown>1.0</RangedWeapon_Cooldown>
+    </statBases>
+    <weaponTags>
+      <li>NeolithicRanged</li>
+    </weaponTags>
+	<recipeMaker>
+      <recipeUsers>
+        <li>ElectricSmithy</li>
+        <li>FueledSmithy</li>
+      </recipeUsers>
+    </recipeMaker>
+    <verbs>
+      <li Class="Combat_Realism.VerbPropertiesCR">
+        <verbClass>Combat_Realism.Verb_ShootCR</verbClass>
+        <hasStandardCommand>true</hasStandardCommand>
+        <projectileDef>Projectile_bolt_Steel</projectileDef>
+        <warmupTime>1.3</warmupTime>
+        <range>50</range>
+        <soundCast>BowLarge</soundCast>
+      </li>
+    </verbs>
+	<comps>
+	  <li Class="Combat_Realism.CompProperties_AmmoUser">
+	        <magazineSize>1</magazineSize>
+		    <reloadTicks>420</reloadTicks>
+			<ammoSet>AmmoSet_bolt</ammoSet>
+	  </li>
+	  <li Class="Combat_Realism.CompProperties_FireModes">
+			<aiUseBurstMode>false</aiUseBurstMode>
+			<aiUseAimMode>false</aiUseAimMode>
+	  </li>
+	</comps>
+  </ThingDef>
+  
+  
+  <ThingDef ParentName="BaseWeaponNeolithic">
+    <defName>wooden_crossbow</defName>
+    <label>Wooden crossbow</label>
+    <description>Wooden crossbow.</description>
+    <graphicData>
+      <texPath>Things/Item/Equipment/wooden_crossbow</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <soundInteract>BowSmall</soundInteract>
+	<costList>
+      <WoodLog>100</WoodLog>
+    </costList>
+    <statBases>
+	  <WorkToMake>25000</WorkToMake>
+      <MarketValue>100</MarketValue>
+      <AimEfficiency>0.7</AimEfficiency>
+      <ShotSpread>1</ShotSpread>
+      <SwayFactor>2</SwayFactor>
+      <Bulk>4.00</Bulk>
+      <Mass>4.00</Mass>
+      <RangedWeapon_Cooldown>1.0</RangedWeapon_Cooldown>
+    </statBases>
+    <weaponTags>
+      <li>NeolithicRanged</li>
+    </weaponTags>
+	<recipeMaker>
+      <recipeUsers>
+        <li>ElectricSmithy</li>
+        <li>FueledSmithy</li>
+      </recipeUsers>
+    </recipeMaker>
+    <verbs>
+      <li Class="Combat_Realism.VerbPropertiesCR">
+        <verbClass>Combat_Realism.Verb_ShootCR</verbClass>
+        <hasStandardCommand>true</hasStandardCommand>
+        <projectileDef>Projectile_bolt_Steel</projectileDef>
+        <warmupTime>1.3</warmupTime>
+        <range>30</range>
+        <soundCast>BowLarge</soundCast>
+      </li>
+    </verbs>
+	<comps>
+	  <li Class="Combat_Realism.CompProperties_AmmoUser">
+	        <magazineSize>1</magazineSize>
+		    <reloadTicks>420</reloadTicks>
+			<ammoSet>AmmoSet_bolt</ammoSet>
+	  </li>
+	  <li Class="Combat_Realism.CompProperties_FireModes">
+			<aiUseBurstMode>false</aiUseBurstMode>
+			<aiUseAimMode>false</aiUseAimMode>
+	  </li>
+	</comps>
+  </ThingDef>
+  
+  
+  <ThingDef ParentName="BaseWeaponNeolithic">
+    <defName>bone_crossbow</defName>
+    <label>Bone crossbow</label>
+    <description>Bone crossbow.</description>
+    <graphicData>
+      <texPath>Things/Item/Equipment/bone_crossbow</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <soundInteract>BowSmall</soundInteract>
+	<costList>
+      <WoodLog>90</WoodLog>
+	  <Steel>65</Steel>
+    </costList>
+    <statBases>
+	  <WorkToMake>30000</WorkToMake>
+      <MarketValue>195</MarketValue>
+      <AimEfficiency>0.7</AimEfficiency>
+      <ShotSpread>1</ShotSpread>
+      <SwayFactor>2</SwayFactor>
+      <Bulk>4.00</Bulk>
+      <Mass>3.50</Mass>
+      <RangedWeapon_Cooldown>1.0</RangedWeapon_Cooldown>
+    </statBases>
+    <weaponTags>
+      <li>NeolithicRanged</li>
+    </weaponTags>
+	<recipeMaker>
+      <recipeUsers>
+        <li>ElectricSmithy</li>
+        <li>FueledSmithy</li>
+      </recipeUsers>
+    </recipeMaker>
+    <verbs>
+      <li Class="Combat_Realism.VerbPropertiesCR">
+        <verbClass>Combat_Realism.Verb_ShootCR</verbClass>
+        <hasStandardCommand>true</hasStandardCommand>
+        <projectileDef>Projectile_bolt_Steel</projectileDef>
+        <warmupTime>1.3</warmupTime>
+        <range>40</range>
+        <soundCast>BowLarge</soundCast>
+      </li>
+    </verbs>
+	<comps>
+	  <li Class="Combat_Realism.CompProperties_AmmoUser">
+	        <magazineSize>1</magazineSize>
+		    <reloadTicks>420</reloadTicks>
+			<ammoSet>AmmoSet_bolt</ammoSet>
+	  </li>
+	  <li Class="Combat_Realism.CompProperties_FireModes">
+			<aiUseBurstMode>false</aiUseBurstMode>
+			<aiUseAimMode>false</aiUseAimMode>
+	  </li>
+	</comps>
+  </ThingDef>
+  
+  
+  <!-- ============================================================== -->
+  
+  
+
+  
+  <ThingDef ParentName="BaseWeaponNeolithic">
+    <defName>shuriken</defName>
+    <label>Shuriken</label>
+    <description>Shuriken.</description>
+    <graphicData>
+      <texPath>Things/Item/Equipment/shuriken</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <soundInteract>Interact_BeatFire</soundInteract>
+	<costList>
+	  <Steel>130</Steel>
+    </costList>
+    <statBases>
+	  <WorkToMake>15000</WorkToMake>
+      <MarketValue>247</MarketValue>
+      <AimEfficiency>0.3</AimEfficiency>
+      <ShotSpread>1</ShotSpread>
+      <SwayFactor>2</SwayFactor>
+      <Bulk>0.30</Bulk>
+      <Mass>0.30</Mass>
+      <RangedWeapon_Cooldown>1.0</RangedWeapon_Cooldown>
+    </statBases>
+    <weaponTags>
+      <li>NeolithicRanged</li>
+    </weaponTags>
+	<recipeMaker>
+      <recipeUsers>
+        <li>ElectricSmithy</li>
+        <li>FueledSmithy</li>
+        <li>CraftingSpot</li>
+      </recipeUsers>
+    </recipeMaker>
+    <verbs>
+      <li Class="Combat_Realism.VerbPropertiesCR">
+        <verbClass>Combat_Realism.Verb_ShootCR</verbClass>
+        <hasStandardCommand>true</hasStandardCommand>
+        <projectileDef>Projectile_Shuriken_Steel</projectileDef>
+        <warmupTime>0.3</warmupTime>
+        <range>14</range>
+      </li>
+    </verbs>
+	<comps>
+	  <li Class="Combat_Realism.CompProperties_AmmoUser">
+	        <magazineSize>1</magazineSize>
+		    <reloadTicks>120</reloadTicks>
+			<ammoSet>AmmoSet_Shuriken</ammoSet>
+	  </li>
+	  <li Class="Combat_Realism.CompProperties_FireModes">
+			<aiUseBurstMode>false</aiUseBurstMode>
+			<aiUseAimMode>false</aiUseAimMode>
+	  </li>
+	</comps>
+  </ThingDef>
+  
+  
+  
+    <!-- ============================================================== -->
+  
+  
+  <ThingDef ParentName="BaseProjectileNeolithic">
+    <defName>throwing_knife_round</defName>
+    <label>Throwing knife round</label>
+    <graphicData>
+      <texPath>Things/Projectile/throwing_knife_round</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <projectile>
+      <flyOverhead>false</flyOverhead>
+      <damageDef>Arrow</damageDef>
+      <DamageAmountBase>13</DamageAmountBase>
+      <Speed>30</Speed>
+    </projectile>
+  </ThingDef>
+  
+  
+  <ThingDef ParentName="BaseWeaponNeolithic">
+    <defName>throwing_knife</defName>
+    <label>Throwing knife</label>
+    <description>Throwing knife.</description>
+    <graphicData>
+      <texPath>Things/Item/Equipment/throwing_knife</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <soundInteract>Interact_BeatFire</soundInteract>
+	<costList>
+	  <Steel>110</Steel>
+    </costList>
+    <statBases>
+	  <WorkToMake>17000</WorkToMake>
+      <MarketValue>200</MarketValue>
+	  <AimEfficiency>0.3</AimEfficiency>
+      <ShotSpread>1</ShotSpread>
+      <SwayFactor>2</SwayFactor>
+      <Bulk>0.35</Bulk>
+      <Mass>0.20</Mass>
+      <RangedWeapon_Cooldown>1.0</RangedWeapon_Cooldown>
+    </statBases>
+    <weaponTags>
+      <li>NeolithicRanged</li>
+    </weaponTags>
+	<recipeMaker>
+      <recipeUsers>
+        <li>ElectricSmithy</li>
+        <li>FueledSmithy</li>
+        <li>CraftingSpot</li>
+      </recipeUsers>
+    </recipeMaker>
+    <verbs>
+      <li Class="Combat_Realism.VerbPropertiesCR">
+        <verbClass>Combat_Realism.Verb_ShootCR</verbClass>
+        <hasStandardCommand>true</hasStandardCommand>
+        <projectileDef>Projectile_knife_Steel</projectileDef>
+        <warmupTime>0.3</warmupTime>
+        <range>16</range>
+      </li>
+    </verbs>
+	<comps>
+	  <li Class="Combat_Realism.CompProperties_AmmoUser">
+	        <magazineSize>1</magazineSize>
+		    <reloadTicks>100</reloadTicks>
+			<ammoSet>AmmoSet_knife</ammoSet>
+	  </li>
+	  <li Class="Combat_Realism.CompProperties_FireModes">
+			<aiUseBurstMode>false</aiUseBurstMode>
+			<aiUseAimMode>false</aiUseAimMode>
+	  </li>
+	</comps>
+  </ThingDef>
+  
+  
+  <!-- ============================================================== -->
+  
+  
+  <ThingDef ParentName="BaseProjectileNeolithic">
+    <defName>light_arrow</defName>
+    <label>Light arrow</label>
+    <graphicData>
+      <texPath>Things/Projectile/light_arrow</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <projectile>
+      <flyOverhead>false</flyOverhead>
+      <damageDef>Arrow</damageDef>
+      <DamageAmountBase>15</DamageAmountBase>
+      <Speed>40</Speed>
+    </projectile>
+  </ThingDef>
+
+
+
+
+
+</ThingDefs>

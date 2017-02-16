@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  
+  <!-- ==================== Crossbow bolt ========================== -->
+
+  <Combat_Realism.AmmoSetDef>
+    <defName>AmmoSet_bolt</defName>
+    <label>Crossbow bolt</label>
+		<ammoTypes>
+			<li>Ammo_bolt_Steel</li>
+		</ammoTypes>
+  </Combat_Realism.AmmoSetDef>
+  
+  <!-- ==================== Shuriken ========================== -->
+
+  <Combat_Realism.AmmoSetDef>
+    <defName>AmmoSet_Shuriken</defName>
+    <label>Shuriken</label>
+		<ammoTypes>
+			<li>Ammo_Shuriken_Steel</li>
+		</ammoTypes>
+  </Combat_Realism.AmmoSetDef>
+  
+  <!-- ==================== Knife ========================== -->
+
+  <Combat_Realism.AmmoSetDef>
+    <defName>AmmoSet_knife</defName>
+    <label>Knife</label>
+		<ammoTypes>
+			<li>Ammo_knife_Steel</li>
+		</ammoTypes>
+  </Combat_Realism.AmmoSetDef>
+  
+  
+</Defs>

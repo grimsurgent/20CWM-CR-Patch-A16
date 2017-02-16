@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<RecipeDefs>
+  
+  <!-- ==================== 5.7x28mm ========================== -->
+
+  <RecipeDef ParentName="AmmoRecipeBase">
+    <defName>MakeAmmo_57x28mm</defName>
+    <label>make 5.7x28mm cartridge x500</label>
+    <description>Craft 500 5.7x28mm cartridges.</description>
+    <jobString>Making 5.7x28mm cartridges.</jobString>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Steel</li>
+          </thingDefs>
+        </filter>
+        <count>12</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>Steel</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <Ammo_57x28mm>500</Ammo_57x28mm>
+    </products>
+  </RecipeDef>
+  
+  <!-- ==================== .44 Remington Magnum ========================== -->
+
+  <RecipeDef ParentName="AmmoRecipeBase">
+    <defName>MakeAmmo_44magnum_HP</defName>
+    <label>make .44 Magnum cartridge x200</label>
+    <description>Craft 200 .44 Magnum cartridges.</description>
+    <jobString>Making .44 Magnum cartridges.</jobString>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Steel</li>
+          </thingDefs>
+        </filter>
+        <count>10</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>Steel</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <Ammo_44magnum_HP>200</Ammo_44magnum_HP>
+    </products>
+  </RecipeDef>
+  
+  <!-- ==================== .380 ACP ========================== -->
+
+  <RecipeDef ParentName="AmmoRecipeBase">
+    <defName>MakeAmmo_380acp_HP</defName>
+    <label>make .380 ACP cartridge x200</label>
+    <description>Craft 200 .380 ACP cartridges.</description>
+    <jobString>Making .380 ACP cartridges.</jobString>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Steel</li>
+          </thingDefs>
+        </filter>
+        <count>5</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>Steel</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <Ammo_380acp_HP>200</Ammo_380acp_HP>
+    </products>
+  </RecipeDef>
+  
+ 
+
+</RecipeDefs>

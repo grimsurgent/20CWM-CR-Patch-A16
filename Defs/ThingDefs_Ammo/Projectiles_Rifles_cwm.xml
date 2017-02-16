@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ThingDefs>
+
+
+	<!-- ==================== 5.45mm ========================== -->
+  
+  <ThingDef ParentName="BaseBullet">
+    <defName>Bullet_545x39mm_FMJ</defName>
+    <label>5.45mm bullet (FMJ)</label>
+    <graphicData>
+      <texPath>Things/Projectile/Bullet_Small</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <projectile>
+      <damageDef>Bullet</damageDef>
+      <damageAmountBase>14</damageAmountBase>
+      <speed>200</speed>
+      <armorPenetration>0.500</armorPenetration>
+    </projectile>
+  </ThingDef>
+  
+  <ThingDef ParentName="BaseBullet">
+    <defName>Bullet_545x39mm_AP</defName>
+    <label>5.45mm bullet (AP)</label>
+    <graphicData>
+      <texPath>Things/Projectile/Bullet_Small</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <projectile>
+      <damageDef>Bullet</damageDef>
+      <damageAmountBase>11</damageAmountBase>
+      <speed>200</speed>
+      <armorPenetration>0.600</armorPenetration>
+    </projectile>
+  </ThingDef>
+  
+  <ThingDef ParentName="BaseBullet">
+    <defName>Bullet_545x39mm_HP</defName>
+    <label>5.45mm bullet (HP)</label>
+    <graphicData>
+      <texPath>Things/Projectile/Bullet_Small</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <projectile>
+      <flyOverhead>false</flyOverhead>
+      <damageDef>Bullet</damageDef>
+      <damageAmountBase>17</damageAmountBase>
+      <speed>200</speed>
+      <armorPenetration>0.350</armorPenetration>
+    </projectile>
+  </ThingDef>
+  
+  <!-- ==================== 9x39mm ========================== -->
+
+  <ThingDef ParentName="BaseBullet">
+    <defName>Bullet_9x39mm_FMJ</defName>
+    <label>9x39mm bullet (FMJ)</label>
+    <graphicData>
+      <texPath>Things/Projectile/Bullet_Small</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <projectile>
+      <damageDef>Bullet</damageDef>
+      <damageAmountBase>13</damageAmountBase>
+      <speed>130</speed>
+      <armorPenetration>0.775</armorPenetration>
+    </projectile>
+  </ThingDef>
+  
+  <ThingDef ParentName="BaseBullet">
+    <defName>Bullet_9x39mm_AP</defName>
+    <label>9x39mm bullet (AP)</label>
+    <graphicData>
+      <texPath>Things/Projectile/Bullet_Small</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <projectile>
+      <damageDef>Bullet</damageDef>
+      <damageAmountBase>10</damageAmountBase>
+      <speed>130</speed>
+      <armorPenetration>0.950</armorPenetration>
+    </projectile>
+  </ThingDef>
+  
+  <ThingDef ParentName="BaseBullet">
+    <defName>Bullet_9x39mm_HP</defName>
+    <label>9x39mm bullet (HP)</label>
+    <graphicData>
+      <texPath>Things/Projectile/Bullet_Small</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <projectile>
+      <flyOverhead>false</flyOverhead>
+      <damageDef>Bullet</damageDef>
+      <damageAmountBase>16</damageAmountBase>
+      <speed>130</speed>
+      <armorPenetration>0.650</armorPenetration>
+    </projectile>
+  </ThingDef>
+  
+  
+  <!-- ==================== 7.92x57mm ========================== -->
+
+  
+  <ThingDef ParentName="BaseBullet">
+    <defName>Bullet_792x57mm_AP</defName>
+    <label>7.92x57mm bullet (AP)</label>
+    <graphicData>
+      <texPath>Things/Projectile/Bullet_Small</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <projectile>
+      <damageDef>Bullet</damageDef>
+      <damageAmountBase>16</damageAmountBase>
+      <speed>150</speed>
+      <armorPenetration>0.750</armorPenetration>
+    </projectile>
+  </ThingDef>
+  
+
+  
+  
+  
+</ThingDefs>

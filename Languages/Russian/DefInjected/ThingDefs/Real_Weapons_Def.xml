@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+   <!-- injection from CCL Real_Weapons_Def -->
+   
+   <Gun_dshkm_cwm.label>ДШКМ</Gun_dshkm_cwm.label>
+   <Gun_dshkm_cwm.description>Станковый крупнокалиберный пулемёт под патрон 12,7×108mm. Разработан на основе конструкции крупнокалиберного станкового пулемёта ДК.</Gun_dshkm_cwm.description>
+   
+   <Gun_spg9_cwm.label>СПГ-9</Gun_spg9_cwm.label>
+   <Gun_spg9_cwm.description>СПГ-9 «Копьё» — советский станковый противотанковый гранатомёт.</Gun_spg9_cwm.description>
+   
+</LanguageData>

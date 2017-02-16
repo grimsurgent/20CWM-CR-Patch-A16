@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  
+  <!-- ==================== 5.7x28mm ========================== -->
+
+  <ThingDef Class="Combat_Realism.AmmoDef" ParentName="AmmoBase">
+    <defName>Ammo_57x28mm</defName>
+    <label> 5.7x28mm cartridge</label>
+    <description>The 5.7×28mm is a small-caliber, high-velocity cartridge designed and manufactured by FN Herstal in Belgium.</description>
+	<tradeTags>
+	  <li>CR_AutoEnableTrade</li>
+	  <li>CR_AutoEnableCrafting</li>
+	</tradeTags>
+    <thingCategories>
+      <li>Ammo57x28mm</li>
+    </thingCategories>
+    <graphicData>
+      <texPath>Things/Ammo/Pistol/FMJ</texPath>
+      <graphicClass>Graphic_StackCount</graphicClass>
+    </graphicData>
+    <statBases>
+      <MarketValue>0.06</MarketValue>
+	  <Mass>0.011</Mass>
+	  <Bulk>0.01</Bulk>
+    </statBases>
+	<linkedProjectile>Bullet_57x28mm</linkedProjectile>
+	<ammoClass>FullMetalJacket</ammoClass>
+  </ThingDef>
+  
+  <!-- ==================== .44 Remington Magnum ========================== -->
+
+  <ThingDef Class="Combat_Realism.AmmoDef" Name="44magnumBase" ParentName="AmmoBase" Abstract="True">
+    <description>The .44 Remington Magnum, or simply .44 Magnum (10.9×33mmR), and frequently .44 Mag, is a large-bore cartridge originally designed for revolvers. After its introduction, it was quickly adopted for carbines and rifles.</description>
+    <statBases>
+	  <Mass>0.03</Mass>
+	  <Bulk>0.03</Bulk>
+    </statBases>
+	<tradeTags>
+	  <li>CR_AutoEnableTrade</li>
+	  <li>CR_AutoEnableCrafting</li>
+	</tradeTags>
+    <thingCategories>
+      <li>Ammo44magnum</li>
+    </thingCategories>
+  </ThingDef>
+
+
+
+  <ThingDef Class="Combat_Realism.AmmoDef" ParentName="44magnumBase">
+    <defName>Ammo_44magnum_HP</defName>
+    <label>.44 Magnum cartridge (HP)</label>
+    <graphicData>
+      <texPath>Things/Ammo/Pistol/HP</texPath>
+      <graphicClass>Graphic_StackCount</graphicClass>
+    </graphicData>
+    <statBases>
+      <MarketValue>0.09</MarketValue>
+    </statBases>
+	<linkedProjectile>Bullet_44magnum_HP</linkedProjectile>
+	<ammoClass>HollowPoint</ammoClass>
+  </ThingDef>-->
+  
+  <!-- ==================== .380 ACP ========================== -->
+
+  <ThingDef Class="Combat_Realism.AmmoDef" Name="380acpBase" ParentName="AmmoBase" Abstract="True">
+    <description>The .380 ACP (9x17mm) (Automatic Colt Pistol) is a rimless, straight-walled pistol cartridge developed by firearms designer John Moses Browning.</description>
+    <statBases>
+	  <Mass>0.02</Mass>
+	  <Bulk>0.02</Bulk>
+    </statBases>
+	<tradeTags>
+	  <li>CR_AutoEnableTrade</li>
+	  <li>CR_AutoEnableCrafting</li>
+	</tradeTags>
+    <thingCategories>
+      <li>Ammo380acp</li>
+    </thingCategories>
+  </ThingDef>
+
+
+
+  <ThingDef Class="Combat_Realism.AmmoDef" ParentName="380acpBase">
+    <defName>Ammo_380acp_HP</defName>
+    <label>.380 ACP cartridge (HP)</label>
+    <graphicData>
+      <texPath>Things/Ammo/Pistol/HP</texPath>
+      <graphicClass>Graphic_StackCount</graphicClass>
+    </graphicData>
+    <statBases>
+      <MarketValue>0.05</MarketValue>
+    </statBases>
+	<linkedProjectile>Bullet_380acp_HP</linkedProjectile>
+	<ammoClass>HollowPoint</ammoClass>
+  </ThingDef>-->
+
+  
+</Defs>

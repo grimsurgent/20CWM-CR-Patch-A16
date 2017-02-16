@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+   <!-- injection from CCL Real_Weapons -->
+   
+   <Gun_m27_cwm.label>M27 LAR</Gun_m27_cwm.label>
+   <Gun_m27_cwm.description> Das M27 Infanterie Maschinengewehr weist einen schwereren , laengeren Lauf und ein umfassenderes Magazing auf, welches groessere Mengen an Sperrfeuer moeglich macht , jedoch etwas der Moblität des standart M416 beibehält.</Gun_m27_cwm.description>
+   
+   <Gun_m16a1_cwm.label>M16A1</Gun_m16a1_cwm.label>
+   <Gun_m16a1_cwm.description>M16 — Im Jahr 1964 trat das M16 in den Dienst des amerikanischen Militärs, und wurde im folgenden Jahr fuer Jungle Kriegsfuehrungs Operationen verwendet.</Gun_m16a1_cwm.description>
+   
+   <Gun_sg550_cwm.label>SG 550</Gun_sg550_cwm.label>
+   <Gun_sg550_cwm.description>SG 550 — Das SG550 ist ein Sturmgewehr hergestellt von der Schweizer Waffengesellschaft AG Neuhausen , Schweiz.</Gun_sg550_cwm.description>
+   
+   <Gun_l85a2_cwm.label>L85A2</Gun_l85a2_cwm.label>
+   <Gun_l85a2_cwm.description>Das L85A2 , ein Teil der SA80 Familie, ist das standart Sturmgewehr der bewaffneten Kräfte Britaniens.</Gun_l85a2_cwm.description>
+   
+   <Gun_steyraug_cwm.label>Steyr AUG</Gun_steyraug_cwm.label>
+   <Gun_steyraug_cwm.description>Seit seiner Einfuehrung als standardt Gewehr des oesterreichischen Militärs im Jahre 1977,sieht es grossen Erfolg als Exportgu, mit einer grossen Zahl an globalen Nutzern, die seine Beständigkeit und das leichte Handhaben anpreisen .</Gun_steyraug_cwm.description>
+   
+   <Gun_minimi_cwm.label>FN Minimi</Gun_minimi_cwm.label>
+   <Gun_minimi_cwm.description> Das Minimi( Kurzform fuer Franzoesisch: Mini Mitrailleuse; "kleines Maschinengewehr") ist ein belgisches 5.56 leichtes Maschinengewehr hergestellt von der Firma Fabrique Nationale,in Herstal , entwickelt unter der Federfuehrung von Ernest Vervier . Erstmal 1974 vorgestellt , dient es nun in mehr als 74 Laendern</Gun_minimi_cwm.description>          
+   
+   <Gun_scarl_cwm.label>Mk.16 SCAR-L</Gun_scarl_cwm.label>
+   <Gun_scarl_cwm.description>Verglichen mit seinem 20 Schuss Karabiner-Ebenbild, dem schwereren Mk.17 , bietet das SCAR-L ein besseres Schussbild bei groesen Distanzen aufgrund des verlaengerten Laufes , und ein besser zu kontrollierendes Feuer aufgrund einer verbesserten Rueckstoss Kontrolle.</Gun_scarl_cwm.description>
+   
+   
+   <Gun_m249_cwm.label>M249</Gun_m249_cwm.label>
+   <Gun_m249_cwm.description>Das M249 hat in fast jedem groesseren bewaffneten Konflikt seit der Invasion Panamas 1989 teilgenommen und hat sich den Ruf einer aueserst verlaesslichen Waffe angeeignet. Ein einziges M249 kann Sperrfeuer vergleichbar mit 15 Infanteristen ausloesen.</Gun_m249_cwm.description>
+   
+   <Gun_m416_cwm.label>M416</Gun_m416_cwm.label>
+   <Gun_m416_cwm.description>Das M416 wurde von einem beruehmten deutschen Waffenhersteller als eine verlaesslichere Version des M16 entwickelt.</Gun_m416_cwm.description>
+   
+   <Gun_g36a1_cwm.label>G36A1</Gun_g36a1_cwm.label>
+   <Gun_g36a1_cwm.description>С Das G36 ist ein im Kaliber 5.56×45mm von Heckler und Koch im Jahre 1990 in Deutschland konzipiert und hergestelltes Sturmgewehr. Es sollte als Ersatz fuer das schwerere 7.62iger Kaliber G3 dienen</Gun_g36a1_cwm.description>
+   
+   <Gun_m4a2_cwm.label>M4A2</Gun_m4a2_cwm.label>
+   <Gun_m4a2_cwm.description>Visuell und technisch dem M16 aehnlich , wurde das M4 Karabiner entwickelt um Pistolen und Maschinenpistolen an der Front zu ersetzten</Gun_m4a2_cwm.description>
+   
+   <Gun_f2000_cwm.label>FN F2000</Gun_f2000_cwm.label>
+   <Gun_f2000_cwm.description>Ein in Belgien hergestelltes Bullup Sturmgewehr, hergestellt im taktischen Stil. Aufsätzte koennen an den Schienen vorne und auf dem Schaft angebracht werden. Das Gewehr ist weit verbreitet bei Spezialeinheiten </Gun_f2000_cwm.description>
+   
+   <Gun_famas_cwm.label>FAMAS G2</Gun_famas_cwm.label>
+   <Gun_famas_cwm.description>Das Standart Sturmgewehr des franzoesischen Militärs</Gun_famas_cwm.description>
+   
+   <Gun_xm8_cwm.label>XM8</Gun_xm8_cwm.label>
+   <Gun_xm8_cwm.description>Das X8 wurde von der Waffenfirmer Heckler und Koch entwickelt. Es teilt Design und Technick mit dem G36</Gun_xm8_cwm.description>
+   
+   <Gun_ak74_cwm.label>АК74</Gun_ak74_cwm.label>
+   <Gun_ak74_cwm.description> Als das Standart Sturmgewehr der russischen Armee, und das meistgefuehrte Sturmgewehr weltweit, hat es sich einen Ruf als ausdauernde und verlaessliche Waffe geschaffen.</Gun_ak74_cwm.description>
+   
+   <Gun_aks74_cwm.label>АКС74</Gun_aks74_cwm.label>
+   <Gun_aks74_cwm.description>Das AKC74 Sturmgewehr wurde 1974 zusammen mit dem AK74 Sturmgewehr eingefuehrt . Es wird im Kaliber 5.45×39mm  hergestellt .</Gun_aks74_cwm.description>
+   
+   <Gun_an94_cwm.label>АН-94</Gun_an94_cwm.label>
+   <Gun_an94_cwm.description>Verglichen mit der AK Linie verlangt das AN94 einen hoeheren Grad an Schusstraining , jedoch kann ein geuebter Schuetze damit auf hoehere Distanzen treffen.</Gun_an94_cwm.description>
+   
+   <Gun_aek971_cwm.label>АЕК-971</Gun_aek971_cwm.label>
+   <Gun_aek971_cwm.description>Das AEK-971 wurde als moeglicher Rivale fuer das Ak74 Sturmgewehr entwickel und bedient sich einer einzigartigen Art der Rueckstosskontrolle.</Gun_aek971_cwm.description>
+
+   <Gun_aks74u_cwm.label>АКС74у</Gun_aks74u_cwm.label>
+   <Gun_aks74u_cwm.description>Inspieriert von der AKS-74 wurde das AKC74 Karabiner in einem staerkeren Kaliber und in der groesse einer Maschinenpistole entwickelt.</Gun_aks74u_cwm.description>
+
+   <Gun_ak107_cwm.label>АК107</Gun_ak107_cwm.label>
+   <Gun_ak107_cwm.description>Das AK107 ist ein Sturmgewehr das als Teil der AK100 Serie entwickelt wurde, ausgefuehrt im Kaliber 5.45×39mm.</Gun_ak107_cwm.description>
+
+   <Gun_akm_cwm.label>АКМ</Gun_akm_cwm.label>
+   <Gun_akm_cwm.description>Das AKM ist eine modernere Variante der AK74 im Kaliber 7.62mm entwickelt von Mikhail Kalashnikov</Gun_akm_cwm.description>
+
+   <Gun_aks_cwm.label>АКМС</Gun_aks_cwm.label>
+   <Gun_aks_cwm.description>Eine Variante des AKM mit metallenem Klappschaft .</Gun_aks_cwm.description>
+
+   <Gun_ak104_cwm.label>АК104</Gun_ak104_cwm.label>
+   <Gun_ak104_cwm.description>Das AK104 Karabiner ist eine kuerzere Version des AK103 Sturmgewehrs.</Gun_ak104_cwm.description>
+
+   <Gun_fal_cwm.label>FN FAL</Gun_fal_cwm.label>
+   <Gun_fal_cwm.description>FN FAL — Das The Fusil Automatique Léger ("Leichtes Automatisches Gewehr") oder FAL, ist eine von Fabrique Nationale de Herstal hergestelltes , semi automatisches Gewehr.</Gun_fal_cwm.description>
+
+   <Gun_scarh_cwm.label>Mk.17 SCAR-H</Gun_scarh_cwm.label>
+   <Gun_scarh_cwm.description>Die Familie der SCAR Sturmgewehere besteht aus 2 Varianten Während die SCAR-L im leichteren Kaliber 5.56×45mm NATO feuert, verschiesst die SCAR-H Patronen im Kaliber7.62×51mm NATO.</Gun_scarh_cwm.description>
+
+   <Gun_galil52_cwm.label>Galil ACE 52</Gun_galil52_cwm.label>
+   <Gun_galil52_cwm.description>Galil ACE — Das Galil ACE ist ein Sturmgewehr hergestellt von der Firma IWI in Israel. Es verschiesst Patronen im Kaliber 5.56x45mm NATO</Gun_galil52_cwm.description>
+
+   <Gun_sr25_cwm.label>SR-25</Gun_sr25_cwm.label>
+   <Gun_sr25_cwm.description>Das SR-25 ist ein qualifiziertes Scharfschuetzengewehr konzipiert von Eugene Stoner und hergestellt von Knight's Armament Company.</Gun_sr25_cwm.description>
+
+   <Gun_g3a3_cwm.label>G3A3</Gun_g3a3_cwm.label>
+   <Gun_g3a3_cwm.description>Das HK G3A3 ist ein Sturmgewehr hergestellt von der Firma Heckler und Koch im Kaliber 7.62×51mm NATO.</Gun_g3a3_cwm.description>
+
+   <Gun_m60e3_cwm.label>M60E3</Gun_m60e3_cwm.label>
+   <Gun_m60e3_cwm.description>M60E3 — Das M60E3 ist eine modifizierte Version des M60 Maschinengewehrs mit einem Vordergriff , Plastikteilen und anderen Verbesserungen.</Gun_m60e3_cwm.description>
+
+   <Gun_m240b_cwm.label>M240B</Gun_m240b_cwm.label>
+   <Gun_m240b_cwm.description>Das M240B ist ein sogenanntes Allzweckmaschinengewehr entwickelt in Belgien. 1991 adoptiere das USMC das M240B".</Gun_m240b_cwm.description>
+
+   <Gun_vintorez_cwm.label>Vss</Gun_vintorez_cwm.label>
+   <Gun_vintorez_cwm.description>Das Vss , auch Vintorez genannt, ist ein schallgedaempftes Scharfschutzengewehr das in einem speziellen Kaliber des Typs 9×39mm SP5 oder SP6 feuert.</Gun_vintorez_cwm.description>
+
+   <Gun_val_cwm.label>АS VAL</Gun_val_cwm.label>
+   <Gun_val_cwm.description>Das AS VAL ist ein Sturmgewehr mit integriertem Schalldaempfer , adoptiert von den russischen Spetznas.</Gun_val_cwm.description>
+
+   <Gun_vsk94_cwm.label>VSK-94</Gun_vsk94_cwm.label>
+   <Gun_vsk94_cwm.description>Das VSK94 ist ein 9mm schallgedaempftes Scharfschuetzengweher hergestellt von dem russischen KGB Instrument Buero . Es sollte als billigere alternative fuer das  Vss Gewehr dienen.</Gun_vsk94_cwm.description>
+
+   <Gun_svu_cwm.label>OTs-3 SVU</Gun_svu_cwm.label>
+   <Gun_svu_cwm.description>Das OTs-03 SVU Scharfschuetzengewehr ist eine Bullup Variante des SVD Gewehrs. Das SVU wurde entwickelt um den Standarts der russischen Sicherheitskraefte besser zu entsprechen.</Gun_svu_cwm.description>
+
+   <Gun_sv98_cwm.label>SV98</Gun_sv98_cwm.label>
+   <Gun_sv98_cwm.description>Seinen westlichen Ebenbildern gleich , begann das SV98 seine Karriere als Bolt-action Sportgewehr</Gun_sv98_cwm.description>
+
+   <Gun_svd_cwm.label>SVD Dragunov</Gun_svd_cwm.label>
+   <Gun_svd_cwm.description> Konzipiert als Trupp Unterstuetzungswaffe, verbessert das SVD die faehigkeiten eines Trupps mit rapidem und genauem Feuer auf grosser Distanz</Gun_svd_cwm.description>
+
+   <Gun_winchester70_cwm.label>Winchester Model 70</Gun_winchester70_cwm.label>
+   <Gun_winchester70_cwm.description> Das Winchester Model 70 ist eine Bolt-action Sportwaffe.  Es ist eine Ikone in der amerikanischen Waffenkultur und wird von vielen Waffensammlern ausgezeichnet , es gewann auch den Preis "The Rifleman's Rifle"</Gun_winchester70_cwm.description>
+
+   <Gun_l96a1_cmw.label>L96A1</Gun_l96a1_cmw.label>
+   <Gun_l96a1_cmw.description>Ein in Britanien hergestelltes Scharfschuetzengewehr. Weitverbreitet in ganz Europa</Gun_l96a1_cmw.description>
+
+   <Gun_pecheneg_cwm.label>PKP </Gun_pecheneg_cwm.label>
+   <Gun_pecheneg_cwm.description>Das Petscheneg ist eine modernere Version des PKM Maschinengewehrs, welches auch in den Dienst der Spetznas aufgenommen wurde.</Gun_pecheneg_cwm.description>
+
+   <Gun_pkm_cmw.label>PKM</Gun_pkm_cmw.label>
+   <Gun_pkm_cmw.description>Das PKM ist ein Allzweckmaschinengewehr im Kaliber 7.62 entwickelt in der Sovietunion und zurzeit in Russland gefertigt.</Gun_pkm_cmw.description>
+
+   <Gun_mp5a2_cwm.label>MP5А2</Gun_mp5a2_cwm.label>
+   <Gun_mp5a2_cwm.description>Eine 9mm Maschinenpistole nach deutschem Konzept , entwickelt 1960.</Gun_mp5a2_cwm.description>
+
+   <Gun_mp5sd_cwm.label>MP5SD</Gun_mp5sd_cwm.label>
+   <Gun_mp5sd_cwm.description>MP5SD — МР5А2 — Eine spezielle Version der beruehmten Maschinenpistole fuer leise Operationen mit neuentwickelter Mechanick und Schalldaempfer. Eine Waffe bevorzugt von Aufklaerern.</Gun_mp5sd_cwm.description>
+
+   <Gun_uzi_cwm.label>UZI Carbine</Gun_uzi_cwm.label>
+   <Gun_uzi_cwm.description>UZI Carbine - Die UZI ist eine weitverbreitete Waffe bei Offizieren , Artillerietruppen , Panzerfahrern , und bei leichter Infanterie an der Frontlinie.</Gun_uzi_cwm.description>
+
+   <Gun_pp19_cwm.label>PP-19</Gun_pp19_cwm.label>
+   <Gun_pp19_cwm.description>Die PP-19 ist eine in Russland entwickelte Maschinenpistole bei der sich das Magazin nicht am Schaft befindet..</Gun_pp19_cwm.description>
+
+   <Gun_m1014_cwm.label>M1014</Gun_m1014_cwm.label>
+   <Gun_m1014_cwm.description>M1014 - Eine Semi-automatische Schrotflinte adoptiert vom USMC im Jahre 1999</Gun_m1014_cwm.description>
+
+   <Gun_saiga12_cwm.label>Saiga 12 12К</Gun_saiga12_cwm.label>
+   <Gun_saiga12_cwm.description>Die SAIGA-12 sit eine russische vollautomatische Schrotflinte mit faltbaren Schaft.</Gun_saiga12_cwm.description>
+
+   <Gun_dao12_cwm.label>DAO-12</Gun_dao12_cwm.label>
+   <Gun_dao12_cwm.description>Das DAO-12 eigentlich in Suedafrika entwickelt , ist die Mischung aus einem Revolver und einer Schrotflinte</Gun_dao12_cwm.description>
+
+   <Gun_jackhammer_cwm.label>MK3A1</Gun_jackhammer_cwm.label>
+   <Gun_jackhammer_cwm.description>Die MK3A1 , auch bekannt als Jackhammer , ist ein vollautomatischer Schrotflinten Prototyp entwickelt in den USA.</Gun_jackhammer_cwm.description>
+
+   <Gun_usas12_cwm.label>USAS-12</Gun_usas12_cwm.label>
+   <Gun_usas12_cwm.description>Eine Suedkoreanisch produzierte Schrotflinte , die die Rolle einer Kampfschrotflinte uebernehmen sollte.</Gun_usas12_cwm.description>
+
+   <Gun_aa12_cwm.label>AA12</Gun_aa12_cwm.label>
+   <Gun_aa12_cwm.description>Die Autoschrotflinte 12 AA12 original bekannt als Atchisson Assault Shotgun, ist eine im Jahre 1972 entwickelte automatische Schrotflinte von Maxwell Atchisson</Gun_aa12_cwm.description>
+
+   <Gun_remington870_cwm.label>Remington 870</Gun_remington870_cwm.label>
+   <Gun_remington870_cwm.description>Die Remington 870 ist eine amerikanische Pump-action Schrotflinte die seit Jahrzenten von Spezialeinheiten genutzt wird..</Gun_remington870_cwm.description>
+
+   <Gun_spas12_cwm.label>SPAS-12</Gun_spas12_cwm.label>
+   <Gun_spas12_cwm.description>Die SPAS-12 ist eine in Italien entwickelte automatische Schrotflinte. Sie ist eine Ikone unter den Schrotflinten und hat seit der Markteinfuehrung 1980 grossen Erfolg gesehen.</Gun_spas12_cwm.description>
+   
+   <Gun_rpg7_cwm.label>РПГ-7</Gun_rpg7_cwm.label>
+   <Gun_rpg7_cwm.description>Получивший широкое распространение ручной противотанковый гранатомет РПГ-7 использовался почти во всех вооруженных конфликтах на всех континентах с середины 1960-х годов.</Gun_rpg7_cwm.description>
+
+   <Gun_mosin_cwm.label>Mosin-Nagant</Gun_mosin_cwm.label>
+   <Gun_mosin_cwm.description>Die Mosin-Nagant ist ein fuenf Schuss Bolt-action Gewehr, entwickelt von der Kaiserlich Russischen Armee 1882-91, benutzt von zahlreichen Laendern.</Gun_mosin_cwm.description>
+
+   <Gun_gewehr98_cwm.label>Mauser Gewehr 98</Gun_gewehr98_cwm.label>
+   <Gun_gewehr98_cwm.description>Das Gewehr 98 ist ein deutsches Bolt-action Gewehr mit 5 schuss Magazin. Es war das Gewehr der deutschen Infanterie von 1898 bis 1945 bis es vom Karabiner 98K ersetzt wurde.</Gun_gewehr98_cwm.description>
+
+   <Gun_mg42_cwm.label>MG 42</Gun_mg42_cwm.label>
+   <Gun_mg42_cwm.description>Das MG 42  ist ein Allzweckmaschinengewehrim Kaliber 7,92 × 57 mm, enwickelt in Nazi Deutschland welches von der Wehrmacht und der Waffen-ss im Zweiten Weltkrieg eingesetzt wurde.</Gun_mg42_cwm.description>
+
+   <Gun_m93r_cwm.label>Beretta 93R</Gun_m93r_cwm.label>
+   <Gun_m93r_cwm.description>Die Beretta 93R ist eine modifizierte Version der M9 Pistole die in 3 Schuss-Feuerstoessen feuern kann..</Gun_m93r_cwm.description>
+
+   <Gun_sks_cwm.label>СКС</Gun_sks_cwm.label>
+   <Gun_sks_cwm.description>Die SKS ist ein sovietisches Gewehr von dem eine grosse stueckzahl gefertigt wurden. In China unter dem Namen Typ 56 bekannt , findet man sie auch in grosser Stueckzahl in den Arsenalen dritter Welt Laender.</Gun_sks_cwm.description>
+
+   <Gun_p90_cwm.label>FN P90</Gun_p90_cwm.label>
+   <Gun_p90_cwm.description>Die FN P90 ist eine belgische Maschinenpistole  die als defensivwaffe fuer Fahrzeugtrupps , Spezialeinheiten und Anti-Terrorist Einheiten entwickelt wurde.</Gun_p90_cwm.description>
+
+   <Gun_m9_cwm.label>Beretta 92</Gun_m9_cwm.label>
+   <Gun_m9_cwm.description>Auch bekannt unter dem Namen M9 Pistole , wurde die Beretta 1985 als Haupt-Seitenwaffe der gesamten Streitkraefte der USA gewaehlt . </Gun_m9_cwm.description>
+
+   <Gun_m1911_cwm.label>M1911</Gun_m1911_cwm.label>
+   <Gun_m1911_cwm.description>Der M911 Colt zaehlt zu einer der bekanntesten Pistolen der Welt. Die USA adoptierte 1911 , und behielt sie im Dienst bis 1985</Gun_m1911_cwm.description>
+
+   <Gun_magnum44_cwm.label>.44 Magnum</Gun_magnum44_cwm.label>
+   <Gun_magnum44_cwm.description>Eine 44. Magnum , die kräftigste Handfeuerwaffe der Welt. Dieses Model haelt eine Rueckstossbremse und einen kompakten Griff bereit , und natuerlich eine Patrone die deine Birne wegreisst .</Gun_magnum44_cwm.description>
+
+   <Gun_r700_cwm.label>Remington 700</Gun_r700_cwm.label>
+   <Gun_r700_cwm.description>Die Remington 700 ist ein Bolt-action Gewehr produziert von Remingto Arms seit 1962</Gun_r700_cwm.description>
+
+   <Gun_m40a3_cwm.label>M40A3</Gun_m40a3_cwm.label>
+   <Gun_m40a3_cwm.description>Das M40A3 Scharfschuetzengewehr wird von dem USMC genutzt.</Gun_m40a3_cwm.description>
+
+   <Gun_m39_cwm.label>M39 EMR</Gun_m39_cwm.label>
+   <Gun_m39_cwm.description>Das M39 EMR ist eine hochmodernisierte Variante des M14, konzipiert um von Aufklaerern des USMC genutzt zu werden.</Gun_m39_cwm.description>
+
+   <Gun_m14_cwm.label>M14</Gun_m14_cwm.label>
+   <Gun_m14_cwm.description>М14 —Das M14 ist das Standartgewehr der U.S Streitkraefte , es wird im Kaliber 7.62×51mm NATO (.308 Winchester) hergestellt.</Gun_m14_cwm.description>
+
+   <Gun_m32_cwm.label>M32</Gun_m32_cwm.label>
+   <Gun_m32_cwm.description>Der Milkor MGL32 ist ein leichgewicht 40mm 6 Schuss Grantwerfer, hergestellt und konzipiert in Afrika.</Gun_m32_cwm.description>
+
+   <Gun_carl_gustaf_m2_cwm.label>Carl Gustaf M2</Gun_carl_gustaf_m2_cwm.label>
+   <Gun_carl_gustaf_m2_cwm.description> Carl Gustaf ist ein 84mm manntragbare, wiederverwendbares Panzerabwehrgewehr  produziert von Saab Bofors Dynamics in Schweden.</Gun_carl_gustaf_m2_cwm.description>
+
+   <Gun_c7a1_cwm.label>C7A1</Gun_c7a1_cwm.label>
+   <Gun_c7a1_cwm.description>Das C7A1 ist ein kanadisches Sturmgewehr, das auf dem amerikanischen M16 basiert und von Diemaco entwickelt wurde.</Gun_c7a1_cwm.description>
+
+   <Gun_scorpionvz68_cwm.label>Scorpion Vz.68</Gun_scorpionvz68_cwm.label>
+   <Gun_scorpionvz68_cwm.description>Auch wenn es eigentlich fuer Spezialeinheiten und Sicherheitskraefte gedacht ward , schaffte es diese Waffe in die tschechische Armee. Sie diente den niedrigeren Soldatenrängen , Fahrzeugtrupps, und Spezialeinheiten</Gun_scorpionvz68_cwm.description>
+
+   <Gun_deserteagle_cwm.label>Desert Eagle</Gun_deserteagle_cwm.label>
+   <Gun_deserteagle_cwm.description>Die Desert Eagle ist eine halbautomatische Single Action-Pistole,beachtenswert ist , dass sie eines der groessten Kaliber abfeuert.Das Konzept ist einzigartig, der Lauf ist triagonal und massiv. </Gun_deserteagle_cwm.description>
+
+   <Gun_ump_cwm.label>HK UMP</Gun_ump_cwm.label>
+   <Gun_ump_cwm.description>Die UMP (Universale Maschinenpistole) ist eine Maschinenpistole des deutschen Waffenherstellers Heckler und Koch.</Gun_ump_cwm.description>
+
+   <Gun_frf2_cmw.label>FR F2</Gun_frf2_cmw.label>
+   <Gun_frf2_cmw.description>Das FR F2 ist das standart Scharfschuetzengewehr der franzoesischen Armee, es ist zielgenau bis auf 800 Meter</Gun_frf2_cmw.description>
+
+   <Gun_steyrscout_cwm.label>Steyr Scout</Gun_steyrscout_cwm.label>
+   <Gun_steyrscout_cwm.description>Das Steyr Scout wurde als zuverlaessiges universal Scharfschuetzengewehr nach einer Reihe von Konzepten nach Jeff Cooper.</Gun_steyrscout_cwm.description>
+
+   <Gun_m79_cwm.label>M79</Gun_m79_cwm.label>
+   <Gun_m79_cwm.description>as Steyr Scout ist ein Repetiergewehr der oesterreichischen Firma Steyr Mannlicher, das 1983 von Jeff Cooper entworfen wurde. Es benutzt das Kaliber .308 Winchester (7,62 × 51 mm NATO in der Militärversion), .</Gun_m79_cwm.description>
+
+   <Gun_mg3_cwm.label>MG 3</Gun_mg3_cwm.label>
+   <Gun_mg3_cwm.description>Das MG3 ist das 1969 eingefuehrte Standardmaschinengewehr (MG) der Bundeswehr,es wird im Kaliber 7,62 × 51 hergestellt und ist eine Weiterentwicklung des deutschen Maschinengewehrs MG42 aus dem Zweiten Weltkrieg.</Gun_mg3_cwm.description>
+
+   <Gun_tar21_cwm.label>TAR-21</Gun_tar21_cwm.label>
+   <Gun_tar21_cwm.description>TAR-21 — Das TAR-21 ist ein Israelisches Bullup Sturmgewehr im Kaliber 5.56×45mm NATO ausgestattet mit einem selektiven Feuermodus.</Gun_tar21_cwm.description>
+
+   <Gun_psg1_cmw.label>HK PSG1</Gun_psg1_cmw.label>
+   <Gun_psg1_cmw.description>Das HK PSG1 (Präzisionsschuetzengewehr 1) ist ein halbautomatisches Scharfschutzengewehr des deutschen Herstellers Heckler und Koch.</Gun_psg1_cmw.description>
+
+   <Gun_rpk74_cwm.label>PPK74</Gun_rpk74_cwm.label>
+   <Gun_rpk74_cwm.description> Das PPK74 ist eine Infanteriewaffe, die in der Sowjetunion entwickelt wurde. Es ist ein leichtes Maschinengewehr des Typ Kalaschnikow und feuert im Kaliber 7,62x39mm</Gun_rpk74_cwm.description>
+
+   <Gun_prozshmel_cwm.label>RPO</Gun_prozshmel_cwm.label>
+   <Gun_prozshmel_cwm.description>Der RPO ''Reaktiver Flammenwerfer der Infanterie“ ist ein leichter, tragbarer Raketenwerfer der Firma KBP, der eine Brand-, Blend- oder Explosivladung verschiesstt. Das Startrohr kann nur einmal verwendet werden; es wird nach dem Gebrauch weggeworfen.</Gun_prozshmel_cwm.description>
+
+   <Gun_qbz95b_cwm.label>QBZ-95B</Gun_qbz95b_cwm.label>
+   <Gun_qbz95b_cwm.description>Стандартная винтовка армии Китая.</Gun_qbz95b_cwm.description>
+
+   <Gun_coltmustang_cwm.label>Colt Mustang</Gun_coltmustang_cwm.label>
+   <Gun_coltmustang_cwm.description>Der Colt Mustang stammt aus einer Linie von zwei leichtgewicht, single-action Taschenpistolen im Kaliber .380 ACP , produziert von Colt's Manufacturing Company.</Gun_coltmustang_cwm.description>
+
+
+  
+
+   
+</LanguageData>

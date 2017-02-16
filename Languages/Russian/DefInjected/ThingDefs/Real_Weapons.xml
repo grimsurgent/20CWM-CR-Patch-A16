@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+   <!-- injection from CCL Real_Weapons -->
+   
+   <Gun_m27_cwm.label>M27 LAR</Gun_m27_cwm.label>
+   <Gun_m27_cwm.description>Усиленный вариант винтовки M416. Пехотная автоматическая винтовка (IAR) M27 отличается более тяжелым и длинным стволом и увеличенным магазином, позволяя вести более продолжительный огонь на подавление и, в то же время, сохраняя некоторую мобильность стандартной M416.</Gun_m27_cwm.description>
+   
+   <Gun_m16a1_cwm.label>M16A1</Gun_m16a1_cwm.label>
+   <Gun_m16a1_cwm.description>M16 — американская автоматическая винтовка калибра 5,56 мм, разработанная на базе винтовки AR-15 и принятая на вооружение в 1960-х годах.</Gun_m16a1_cwm.description>
+   
+   <Gun_sg550_cwm.label>SG 550</Gun_sg550_cwm.label>
+   <Gun_sg550_cwm.description>SG 550 — швейцарский автомат, разработанный в 1979—1980 годах на основе SIG SG 540 для замены устаревшей автоматической винтовки SIG SG 510.</Gun_sg550_cwm.description>
+   
+   <Gun_l85a2_cwm.label>L85A2</Gun_l85a2_cwm.label>
+   <Gun_l85a2_cwm.description>Входит в британский комплекс стрелкового оружия SA80, L85 является стандартной штурмовой винтовки британских вооруженных сил.</Gun_l85a2_cwm.description>
+   
+   <Gun_steyraug_cwm.label>Steyr AUG</Gun_steyraug_cwm.label>
+   <Gun_steyraug_cwm.description>С момента принятия на вооружения австрийской армии в 1977 году, винтовка имеет большое число положительных отзывов, в частности за рубежом.</Gun_steyraug_cwm.description>
+   
+   <Gun_minimi_cwm.label>FN Minimi</Gun_minimi_cwm.label>
+   <Gun_minimi_cwm.description>Minimi является бельгийским ручным пулеметом калибра 5.56mm. Впервые представленнен в 1974 году, в настоящее время состоит на вооружении более чем в 75 странах.</Gun_minimi_cwm.description>
+   
+   <Gun_scarl_cwm.label>Mk.16 SCAR-L</Gun_scarl_cwm.label>
+   <Gun_scarl_cwm.description>По сравнению с ее более тяжелым сородичем, карабином на 20 патронов Mk. 17, у SCAR-L есть серьезное преимущество при стрельбе на больших дистанциях из-за удлиненного ствола и сниженной отдачи.</Gun_scarl_cwm.description>
+   
+   <Gun_m249_cwm.label>M249</Gun_m249_cwm.label>
+   <Gun_m249_cwm.description>M249 участвовал в каждом крупном вооруженном конфликте начиная с вторжения в Панаму в 1989 г. и заслужил репутацию надежного оружия. Один M249 может вести огонь на подавление, эквивалентный стрельбе 15 автоматчиков.</Gun_m249_cwm.description>
+   
+   <Gun_m416_cwm.label>M416</Gun_m416_cwm.label>
+   <Gun_m416_cwm.description>Винтовка M416 была разработана знаменитым немецким производителем оружия как более надежная версия классической M16.</Gun_m416_cwm.description>
+   
+   <Gun_g36a1_cwm.label>G36A1</Gun_g36a1_cwm.label>
+   <Gun_g36a1_cwm.description>С конструктивной точки зрения механика оружия представляет собой вариант винтовки AR-18, разработанной в начале 1960-х годов в США, но изготовленный с широким использованием современных материалов, в том числе — высокопрочных полимеров для ствольной коробки.</Gun_g36a1_cwm.description>
+   
+   <Gun_m4a2_cwm.label>M4A2</Gun_m4a2_cwm.label>
+   <Gun_m4a2_cwm.description>М4 — карабин, созданный в США на основе М16А2 изначально для вооружения экипажей боевых машин и расчётов вооружения и военной техники.</Gun_m4a2_cwm.description>
+   
+   <Gun_f2000_cwm.label>FN F2000</Gun_f2000_cwm.label>
+   <Gun_f2000_cwm.description>Автомат с компоновкой «булл-пап» бельгийского производства, тактическая конфигурация которого заключается в наличии верхнего и переднего креплений для различных принадлежностей.</Gun_f2000_cwm.description>
+   
+   <Gun_famas_cwm.label>FAMAS G2</Gun_famas_cwm.label>
+   <Gun_famas_cwm.description>Стандартная винтовка французской армии.</Gun_famas_cwm.description>
+   
+   <Gun_xm8_cwm.label>XM8</Gun_xm8_cwm.label>
+   <Gun_xm8_cwm.description>ХМ8 разработан главным образом для замены автоматов М16 и М4А1, имея меньшую массу и большую надёжность.</Gun_xm8_cwm.description>
+   
+   <Gun_ak74_cwm.label>АК74</Gun_ak74_cwm.label>
+   <Gun_ak74_cwm.description>Принятый на вооружение Российской армией в качестве стандартного оружия.</Gun_ak74_cwm.description>
+   
+   <Gun_aks74_cwm.label>АКС74</Gun_aks74_cwm.label>
+   <Gun_aks74_cwm.description>Принятый на вооружение Российской армией в качестве стандартного оружия. Имеет складывающейся приклад.</Gun_aks74_cwm.description>
+   
+   <Gun_an94_cwm.label>АН-94</Gun_an94_cwm.label>
+   <Gun_an94_cwm.description>Состоит на вооружении у элитных российских войск АН-94 предлагает уникальную возможность высокоточной стрельбы очередями с отсечкой по два патрона.</Gun_an94_cwm.description>
+   
+   <Gun_aek971_cwm.label>АЕК-971</Gun_aek971_cwm.label>
+   <Gun_aek971_cwm.description>AEK-971 был разработан в качестве возможного последователя АК-74 в серии автоматов и отличается уникальной системой смягчения отдачи.</Gun_aek971_cwm.description>
+
+   <Gun_aks74u_cwm.label>АКС74у</Gun_aks74u_cwm.label>
+   <Gun_aks74u_cwm.description>АКС74у является укороченным карабином с мощностью винтовки, но размером с пистолет-пулемет.</Gun_aks74u_cwm.description>
+
+   <Gun_ak107_cwm.label>АК107</Gun_ak107_cwm.label>
+   <Gun_ak107_cwm.description>Автомат из сотой серии Российского производства под калибр 5,45×39mm.</Gun_ak107_cwm.description>
+
+   <Gun_akm_cwm.label>АКМ</Gun_akm_cwm.label>
+   <Gun_akm_cwm.description>7,62-мм автомат Калашникова модернизированный — автомат, принятый на вооружение в 1959 году взамен автомата АК и являющийся его дальнейшим развитием.</Gun_akm_cwm.description>
+
+   <Gun_aks_cwm.label>АКМС</Gun_aks_cwm.label>
+   <Gun_aks_cwm.description>Вариант АКМ со складным вниз под цевье металлическим прикладом.</Gun_aks_cwm.description>
+
+   <Gun_ak104_cwm.label>АК104</Gun_ak104_cwm.label>
+   <Gun_ak104_cwm.description>Разработан на базе модернизированного автомата АК-74 М и входит в так называемую 100-ю серию. Имеет калибр 7.62x39mm.</Gun_ak104_cwm.description>
+
+   <Gun_fal_cwm.label>FN FAL</Gun_fal_cwm.label>
+   <Gun_fal_cwm.description>FN FAL — огнестрельное оружие, производимое в Бельгии компанией Fabrique Nationale de Herstal. Одна из наиболее признанных и распространённых автоматических винтовок.</Gun_fal_cwm.description>
+
+   <Gun_scarh_cwm.label>Mk.17 SCAR-H</Gun_scarh_cwm.label>
+   <Gun_scarh_cwm.description>SCAR-H (англ. Heavy — тяжёлый) — винтовка калибра 7,62 NATO, предназначенная для замены M14 и M110.</Gun_scarh_cwm.description>
+
+   <Gun_galil52_cwm.label>Galil ACE 52</Gun_galil52_cwm.label>
+   <Gun_galil52_cwm.description>Galil ACE — израильское семейство автоматического оружия, дальнейшее развитие автомата Galil (в свою очередь являющегося «потомком» автомата Калашникова).</Gun_galil52_cwm.description>
+
+   <Gun_sr25_cwm.label>SR-25</Gun_sr25_cwm.label>
+   <Gun_sr25_cwm.description>SR-25 — самозарядная снайперская винтовка, разработанная Юджином Стоунером в 1990-е годы на основе конструкции винтовки AR-15.</Gun_sr25_cwm.description>
+
+   <Gun_g3a3_cwm.label>G3A3</Gun_g3a3_cwm.label>
+   <Gun_g3a3_cwm.description>HK G3 — немецкая автоматическая винтовка, принятая на вооружение армией ФРГ в 1959 году. В 1997 году ей на смену пришёл автомат калибра 5,56mm NATO HK G36.</Gun_g3a3_cwm.description>
+
+   <Gun_m60e3_cwm.label>M60E3</Gun_m60e3_cwm.label>
+   <Gun_m60e3_cwm.description>M60E3 — облегчённая модификация пулемёта M60E1 с передней рукояткой, пластиковым цевьём и рядом других улучшений.</Gun_m60e3_cwm.description>
+
+   <Gun_m240b_cwm.label>M240B</Gun_m240b_cwm.label>
+   <Gun_m240b_cwm.description>Пулемет разработанный в Бельгии. M60 сначала был заменен на M240G, а впоследствии на M240B, обеспечив унифицированность вооружения морской пехоты и сухопутных войск США.</Gun_m240b_cwm.description>
+
+   <Gun_vintorez_cwm.label>ВСС Винторез</Gun_vintorez_cwm.label>
+   <Gun_vintorez_cwm.description>ВСС (Винтовка снайперская специальная) — бесшумная снайперская винтовка для подразделений специального назначения.</Gun_vintorez_cwm.description>
+
+   <Gun_val_cwm.label>АС ВАЛ</Gun_val_cwm.label>
+   <Gun_val_cwm.description>АС «Вал» (Автомат Специальный) — бесшумный автомат, разработанный во второй половине 1980-х годов на базе бесшумной снайперской винтовки ВСС и состоящий на вооружении подразделений специального назначения России.</Gun_val_cwm.description>
+
+   <Gun_vsk94_cwm.label>ВСК-94</Gun_vsk94_cwm.label>
+   <Gun_vsk94_cwm.description>ВСК-94 (Войсковой Снайперский Комплекс) — российская снайперская винтовка, созданная на базе малогабаритного автомата 9А-91  в Тульском конструкторском бюро приборостроения в 1994 году для ведения снайперского бесшумного и беспламенного огня.</Gun_vsk94_cwm.description>
+
+   <Gun_svu_cwm.label>СВУ</Gun_svu_cwm.label>
+   <Gun_svu_cwm.description>СВУ (ОЦ-03) — самозарядная снайперская винтовка компоновки булл-пап, разработанная ЦКИБ СОО на основе СВД.</Gun_svu_cwm.description>
+
+   <Gun_sv98_cwm.label>СВ98</Gun_sv98_cwm.label>
+   <Gun_sv98_cwm.description>СВ-98 была создана на базе проверенной временем спортивной винтовки с продольно-скользящим затвором.</Gun_sv98_cwm.description>
+
+   <Gun_svd_cwm.label>СВД</Gun_svd_cwm.label>
+   <Gun_svd_cwm.description>Снайперская винтовка Драгунова (СВД) — самозарядная снайперская винтовка, разработанная в 1957—1963 годах группой конструкторов под руководством Евгения Драгунова.</Gun_svd_cwm.description>
+
+   <Gun_winchester70_cwm.label>Winchester Model 70</Gun_winchester70_cwm.label>
+   <Gun_winchester70_cwm.description>Winchester Model 70 — американская спортивная винтовка с продольно-скользящим затвором, представленная в 1936 году. Благодаря своей популярности получила неформальное прозвище «The Rifleman’s Rifle».</Gun_winchester70_cwm.description>
+
+   <Gun_l96a1_cmw.label>L96A1</Gun_l96a1_cmw.label>
+   <Gun_l96a1_cmw.description>Английская снайперская винтовка с превосходными ТТХ. Широко используется в Европе.</Gun_l96a1_cmw.description>
+
+   <Gun_pecheneg_cwm.label>ПКП Печенег</Gun_pecheneg_cwm.label>
+   <Gun_pecheneg_cwm.description>Являясь еще одной модификацией традиционного российского оружия, ПКП «Печенег» постепенно заменяет пулемет ПКМ, состоящий на вооружении у отрядов спецназа.</Gun_pecheneg_cwm.description>
+
+   <Gun_pkm_cmw.label>ПКМ</Gun_pkm_cmw.label>
+   <Gun_pkm_cmw.description>Пулемёт Калашникова (ПК) — советский пулемёт, разработанный Михаилом Тимофеевичем Калашниковым в качестве единого пулемёта для Вооружённых Сил СССР. ПК был принят на вооружение Вооружённых Сил СССР в 1961 году. Он применялся во многих войнах и вооружённых конфликтах второй половины XX века и начала XXI.</Gun_pkm_cmw.description>
+
+   <Gun_mp5a2_cwm.label>MP5А2</Gun_mp5a2_cwm.label>
+   <Gun_mp5a2_cwm.description>МР5А2 — с постоянным полым пластмассовым прикладом, на котором имеется антабка для крепления ремня.</Gun_mp5a2_cwm.description>
+
+   <Gun_mp5sd_cwm.label>MP5SD</Gun_mp5sd_cwm.label>
+   <Gun_mp5sd_cwm.description>MP5SD — бесшумный вариант образца 1974 года с интегрированным ПБС и перфорированным стволом. Звук выстрела почти не слышно на расстоянии выше 15 м.</Gun_mp5sd_cwm.description>
+
+   <Gun_uzi_cwm.label>UZI Carbine</Gun_uzi_cwm.label>
+   <Gun_uzi_cwm.description>UZI Carbine - самозарядный карабин с удлинённым до 400 мм стволом, предназначенный в основном для гражданского рынка и по параметрам удовлетворяли принятым в США требованиям к гражданскому оружию.</Gun_uzi_cwm.description>
+
+   <Gun_pp19_cwm.label>ПП-19</Gun_pp19_cwm.label>
+   <Gun_pp19_cwm.description>Российский пистолет-пулемет, отличается цилиндрическим магазином повышенной емкости.</Gun_pp19_cwm.description>
+
+   <Gun_m1014_cwm.label>M1014</Gun_m1014_cwm.label>
+   <Gun_m1014_cwm.description>M1014 - это итальянский полуавтоматический дробовик, импортируемый для Корпуса морской пехоты США с 1999 г. Стреляет патронами 12 калибра без необходимости в помповом механизме.</Gun_m1014_cwm.description>
+
+   <Gun_saiga12_cwm.label>Сайга 12К</Gun_saiga12_cwm.label>
+   <Gun_saiga12_cwm.description>Самозарядное ружье 12 калибра российского производства сделано на базе механизма АК-47 и снабжено складывающимся прикладом.</Gun_saiga12_cwm.description>
+
+   <Gun_dao12_cwm.label>DAO-12</Gun_dao12_cwm.label>
+   <Gun_dao12_cwm.description>DAO-12 является комбинацией револьвера и дробовика.</Gun_dao12_cwm.description>
+
+   <Gun_jackhammer_cwm.label>MK3A1</Gun_jackhammer_cwm.label>
+   <Gun_jackhammer_cwm.description>Разработанный в США прототип полностью автоматического дробовика.</Gun_jackhammer_cwm.description>
+
+   <Gun_usas12_cwm.label>USAS-12</Gun_usas12_cwm.label>
+   <Gun_usas12_cwm.description>Произведенный в Южной Корее автоматический дробовик USAS-12 был специально разработан в качестве боевого оружия.</Gun_usas12_cwm.description>
+
+   <Gun_aa12_cwm.label>AA12</Gun_aa12_cwm.label>
+   <Gun_aa12_cwm.description>AA-12 (Auto Assault-12) — автоматическое ружьё - дробовик, созданное Максвеллом Атчиссоном на базе более ранней разработки Atchisson Assault Shotgun.</Gun_aa12_cwm.description>
+
+   <Gun_remington870_cwm.label>Remington 870</Gun_remington870_cwm.label>
+   <Gun_remington870_cwm.description>M870 - помповое ружье используемое войсками специального назначения. В городских условиях ружье M870 особенно эффективно из-за высокого останавливающего действия на близких дистанциях.</Gun_remington870_cwm.description>
+
+   <Gun_spas12_cwm.label>SPAS-12</Gun_spas12_cwm.label>
+   <Gun_spas12_cwm.description>Итальянский дробовик практически стал иконой с момента своего появления на рынке в 80-х годах.</Gun_spas12_cwm.description>
+   
+   <Gun_rpg7_cwm.label>РПГ-7</Gun_rpg7_cwm.label>
+   <Gun_rpg7_cwm.description>Получивший широкое распространение ручной противотанковый гранатомет РПГ-7 использовался почти во всех вооруженных конфликтах на всех континентах с середины 1960-х годов.</Gun_rpg7_cwm.description>
+
+   <Gun_mosin_cwm.label>Винтовка Мосина</Gun_mosin_cwm.label>
+   <Gun_mosin_cwm.description>7,62-мм (3-линейная) винтовка образца 1891 года — магазинная винтовка, принятая на вооружение Русской Императорской армии ВС России в 1891 году. Имела другие названия — винтовка Мосина, трёхлинейка, «Мосинка» и так далее. Активно использовалась в период с 1891 до конца Второй мировой войны, в этот период многократно модернизировалась.</Gun_mosin_cwm.description>
+
+   <Gun_gewehr98_cwm.label>Mauser Gewehr 98</Gun_gewehr98_cwm.label>
+   <Gun_gewehr98_cwm.description>Винтовка Маузер 98 состояла на вооружении многих армий мира вплоть до конца Второй мировой войны и получила репутацию точного и надёжного оружия.</Gun_gewehr98_cwm.description>
+
+   <Gun_mg42_cwm.label>MG 42</Gun_mg42_cwm.label>
+   <Gun_mg42_cwm.description>MG 42 — немецкий единый пулемёт времён Второй мировой войны. Среди советских фронтовиков и союзников получил прозвища «Косторез», «Пила Гитлера», «Эмга».</Gun_mg42_cwm.description>
+
+   <Gun_m93r_cwm.label>Beretta 93R</Gun_m93r_cwm.label>
+   <Gun_m93r_cwm.description>93R может стрелять очередями с отсечкой по три патрона.</Gun_m93r_cwm.description>
+
+   <Gun_sks_cwm.label>СКС</Gun_sks_cwm.label>
+   <Gun_sks_cwm.description>СКС - популярная винтовка у гражданских стрелков, которую до сих пор можно встретить на вооружении в разных странах мира.</Gun_sks_cwm.description>
+
+   <Gun_p90_cwm.label>FN P90</Gun_p90_cwm.label>
+   <Gun_p90_cwm.description>Имеющий в стандартной комплектации магазин на 50 патронов, P90 прекрасно подходит в качестве наступательного оружия ближнего боя для высокомобильных подразделений.</Gun_p90_cwm.description>
+
+   <Gun_m9_cwm.label>Beretta 92</Gun_m9_cwm.label>
+   <Gun_m9_cwm.description>Полуавтоматический 9-мм пистолет M9 стал основным пистолетом вооруженных сил США еще в 1985 году. </Gun_m9_cwm.description>
+
+   <Gun_m1911_cwm.label>M1911</Gun_m1911_cwm.label>
+   <Gun_m1911_cwm.description>M1911 - это один из самых популярных пистолетов в мире. Состоял на вооружении ВС США до 1985 года.</Gun_m1911_cwm.description>
+
+   <Gun_magnum44_cwm.label>.44 Magnum</Gun_magnum44_cwm.label>
+   <Gun_magnum44_cwm.description>Самый мощный револьвер в мире, а данная конкретная модель отличается дульным тормозом-компенсатором, компактной рамкой для облегчения ношения и, конечно же, патронами, которые вполне могут отстрелить вам голову.</Gun_magnum44_cwm.description>
+
+   <Gun_r700_cwm.label>Remington 700</Gun_r700_cwm.label>
+   <Gun_r700_cwm.description>Remington 700 — магазинная винтовка производства США. Технически представляет собой магазинную винтовку с продольно-скользящим поворотным затвором.</Gun_r700_cwm.description>
+
+   <Gun_m40a3_cwm.label>M40A3</Gun_m40a3_cwm.label>
+   <Gun_m40a3_cwm.description>M40 — американская снайперская винтовка, сконструированная на базе Remington 40ХВ (в свою очередь являющейся усовершенствованым вариантом Remington 700).</Gun_m40a3_cwm.description>
+
+   <Gun_m39_cwm.label>M39 EMR</Gun_m39_cwm.label>
+   <Gun_m39_cwm.description>Использующая целевые боеприпасы NATO калибра 7,62 мм большой дальности, M39 значительно легче и точнее оригинальной M14.</Gun_m39_cwm.description>
+
+   <Gun_m14_cwm.label>M14</Gun_m14_cwm.label>
+   <Gun_m14_cwm.description>М14 — американская автоматическая винтовка, состоявшая на вооружении армии США в 1950—1960 годах.</Gun_m14_cwm.description>
+
+   <Gun_m32_cwm.label>M32</Gun_m32_cwm.label>
+   <Gun_m32_cwm.description>Ручной многозарядный полуавтоматический гранатомет, разработанный в 1981 году.</Gun_m32_cwm.description>
+
+   <Gun_carl_gustaf_m2_cwm.label>Carl Gustaf M2</Gun_carl_gustaf_m2_cwm.label>
+   <Gun_carl_gustaf_m2_cwm.description>«Карл Густав» — шведский ручной противотанковый гранатомёт, названный по выпускавшей его фирме Bofors Carl Gustaf AB. Гранатомет предназначен для уничтожения бронированных целей, живой силы и огневых позиций противника, а также для создания дымовых завес и освещения местности.</Gun_carl_gustaf_m2_cwm.description>
+
+   <Gun_c7a1_cwm.label>C7A1</Gun_c7a1_cwm.label>
+   <Gun_c7a1_cwm.description>Канадский автомат, являющиеся модифицированным вариантом американского автомата М16А1.</Gun_c7a1_cwm.description>
+
+   <Gun_scorpionvz68_cwm.label>Scorpion Vz.68</Gun_scorpionvz68_cwm.label>
+   <Gun_scorpionvz68_cwm.description>Чешский автоматический пистолет, разрабатывался для вооружения танкистов, связистов и военнослужащих других специальностей.</Gun_scorpionvz68_cwm.description>
+
+   <Gun_deserteagle_cwm.label>Desert Eagle</Gun_deserteagle_cwm.label>
+   <Gun_deserteagle_cwm.description>Самозарядный пистолет крупного калибра. Позиционируется как охотничье оружие и оружие для самозащиты от диких зверей и преступных посягательств.</Gun_deserteagle_cwm.description>
+
+   <Gun_ump_cwm.label>HK UMP</Gun_ump_cwm.label>
+   <Gun_ump_cwm.description>Пистолет-пулемёт, разработанный немецкой компанией Heckler and Koch в 1990-х годах в качестве дополнения к семейству пистолетов-пулемётов HK MP5.</Gun_ump_cwm.description>
+
+   <Gun_frf2_cmw.label>FR F2</Gun_frf2_cmw.label>
+   <Gun_frf2_cmw.description>FR-F2 — французская снайперская винтовка, созданная на основе FR-F1 в конце 1984 года.</Gun_frf2_cmw.description>
+
+   <Gun_steyrscout_cwm.label>Steyr Scout</Gun_steyrscout_cwm.label>
+   <Gun_steyrscout_cwm.description>Австрийская снайперская винтовка производства фирмы Steyr. Принадлежит к особому классу универсальных винтовок "скаут", предназначенных как для охоты, так и для самозащиты и боя.</Gun_steyrscout_cwm.description>
+
+   <Gun_m79_cwm.label>M79</Gun_m79_cwm.label>
+   <Gun_m79_cwm.description>M79 — однозарядный 40mm гранатомёт, принятый на вооружение в 1961 году армией США. Неофициальное название — «Blooper».</Gun_m79_cwm.description>
+
+   <Gun_mg3_cwm.label>MG 3</Gun_mg3_cwm.label>
+   <Gun_mg3_cwm.description>Немецкий единый пулемёт. Является усовершенствованным вариантом пулемёта MG 42.</Gun_mg3_cwm.description>
+
+   <Gun_tar21_cwm.label>TAR-21</Gun_tar21_cwm.label>
+   <Gun_tar21_cwm.description>TAR-21 — модель израильского автомата калибра 5,56×45mm.</Gun_tar21_cwm.description>
+
+   <Gun_psg1_cmw.label>HK PSG1</Gun_psg1_cmw.label>
+   <Gun_psg1_cmw.description>PSG1 — самозарядная снайперская винтовка, разработанная германской компанией Heckler and Koch.</Gun_psg1_cmw.description>
+
+   <Gun_rpk74_cwm.label>РПК74</Gun_rpk74_cwm.label>
+   <Gun_rpk74_cwm.description>Ручной пулемёт, разработанный для замены в войсках пулемёта РПК под патрон 7,62×39mm в рамках системы стрелкового оружия под малоимпульсный патрон 5,45×39mm.</Gun_rpk74_cwm.description>
+
+   <Gun_prozshmel_cwm.label>РПО-З «Шмель»</Gun_prozshmel_cwm.label>
+   <Gun_prozshmel_cwm.description>Советский и российский реактивный огнемёт одноразового применения (известный на войне в Афганистане как «Шайтан-труба»). Переснаряжению не подлежит. Представляет собой снаряд-ракету, начинённую огнесмесью.</Gun_prozshmel_cwm.description>
+
+   <Gun_qbz95b_cwm.label>QBZ-95B</Gun_qbz95b_cwm.label>
+   <Gun_qbz95b_cwm.description>Стандартная винтовка армии Китая.</Gun_qbz95b_cwm.description>
+
+   <Gun_coltmustang_cwm.label>Colt Mustang</Gun_coltmustang_cwm.label>
+   <Gun_coltmustang_cwm.description>Компактный полуавтоматический пистолет с емкостью магазина на 6 патронов, предназначенный для комфортного скрытого ношения.</Gun_coltmustang_cwm.description>
+
+
+  
+
+   
+</LanguageData>

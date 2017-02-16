@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  
+  <!-- ==================== Crossbow bolt ========================== -->
+
+  <ThingDef Class="Combat_Realism.AmmoDef" Name="AmmoboltBase" ParentName="AmmoBase" Abstract="True">
+    <description>Crossbow bolt</description>
+    <statBases>
+	  <Mass>0.11</Mass>
+	  <Bulk>0.11</Bulk>
+    </statBases>
+    <thingCategories>
+      <li>Ammobolt</li>
+    </thingCategories>
+    <stackLimit>200</stackLimit>
+  </ThingDef>
+
+
+
+  <ThingDef Class="Combat_Realism.AmmoDef" ParentName="AmmoboltBase">
+    <defName>Ammo_bolt_Steel</defName>
+    <label>Crossbow bolt (steel)</label>
+    <graphicData>
+      <texPath>Things/Projectile/ammo/Neolithic/Bolt/Steel</texPath>
+      <graphicClass>Graphic_StackCount</graphicClass>
+    </graphicData>
+    <statBases>
+      <MarketValue>0.38</MarketValue>
+    </statBases>
+		<linkedProjectile>Projectile_bolt_Steel</linkedProjectile>
+		<ammoClass>SteelArrow</ammoClass>
+  </ThingDef>
+  
+  
+  <!-- ==================== Shuriken ========================== -->
+
+  <ThingDef Class="Combat_Realism.AmmoDef" Name="AmmoShurikenBase" ParentName="AmmoBase" Abstract="True">
+    <description>Shuriken</description>
+    <statBases>
+	  <Mass>0.11</Mass>
+	  <Bulk>0.11</Bulk>
+    </statBases>
+    <thingCategories>
+      <li>AmmoShuriken</li>
+    </thingCategories>
+    <stackLimit>200</stackLimit>
+  </ThingDef>
+
+
+
+  <ThingDef Class="Combat_Realism.AmmoDef" ParentName="AmmoShurikenBase">
+    <defName>Ammo_Shuriken_Steel</defName>
+    <label>Shuriken (steel)</label>
+    <graphicData>
+      <texPath>Things/Projectile/ammo/Neolithic/Shuriken/Steel</texPath>
+      <graphicClass>Graphic_StackCount</graphicClass>
+    </graphicData>
+    <statBases>
+      <MarketValue>0.38</MarketValue>
+    </statBases>
+		<linkedProjectile>Projectile_Shuriken_Steel</linkedProjectile>
+		<ammoClass>SteelArrow</ammoClass>
+  </ThingDef>
+  
+  
+  <!-- ==================== Knife ========================== -->
+
+  <ThingDef Class="Combat_Realism.AmmoDef" Name="AmmoknifeBase" ParentName="AmmoBase" Abstract="True">
+    <description>Knife</description>
+    <statBases>
+	  <Mass>0.11</Mass>
+	  <Bulk>0.11</Bulk>
+    </statBases>
+    <thingCategories>
+      <li>Ammoknife</li>
+    </thingCategories>
+    <stackLimit>200</stackLimit>
+  </ThingDef>
+
+
+
+  <ThingDef Class="Combat_Realism.AmmoDef" ParentName="AmmoknifeBase">
+    <defName>Ammo_knife_Steel</defName>
+    <label>Knife (steel)</label>
+    <graphicData>
+      <texPath>Things/Projectile/ammo/Neolithic/Knife/Steel</texPath>
+      <graphicClass>Graphic_StackCount</graphicClass>
+    </graphicData>
+    <statBases>
+      <MarketValue>0.38</MarketValue>
+    </statBases>
+		<linkedProjectile>Projectile_knife_Steel</linkedProjectile>
+		<ammoClass>SteelArrow</ammoClass>
+  </ThingDef>
+
+ 
+
+</Defs>

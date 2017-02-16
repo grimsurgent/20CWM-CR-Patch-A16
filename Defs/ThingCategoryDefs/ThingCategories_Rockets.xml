@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ThingCategoryDefs>
+
+    <ThingCategoryDef>
+      <defName>AmmoRockets</defName>
+      <label>rocket</label>
+      <parent>Ammo</parent>
+    </ThingCategoryDef>
+
+    <ThingCategoryDef>
+      <defName>AmmoRPG7Grenades</defName>
+      <label>RPG-7 grenades</label>
+      <parent>AmmoRockets</parent>
+    </ThingCategoryDef>
+	
+	<ThingCategoryDef>
+      <defName>AmmoSPG9Grenades</defName>
+      <label>SPG-9 grenades</label>
+      <parent>AmmoRockets</parent>
+    </ThingCategoryDef>
+	
+	<ThingCategoryDef>
+      <defName>Ammo84mmGrenades</defName>
+      <label>84mm grenades</label>
+      <parent>AmmoRockets</parent>
+    </ThingCategoryDef>
+	
+	<ThingCategoryDef>
+      <defName>Ammo90mmGrenades</defName>
+      <label>90mm grenades</label>
+      <parent>AmmoRockets</parent>
+    </ThingCategoryDef>
+
+</ThingCategoryDefs>

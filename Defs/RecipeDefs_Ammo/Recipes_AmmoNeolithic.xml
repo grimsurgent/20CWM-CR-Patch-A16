@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<RecipeDefs>
+
+  <RecipeDef Name="AmmoRecipeNeolithicBase" Abstract="true">
+    <workSpeedStat>SmithingSpeed</workSpeedStat>
+    <effectWorking>Cook</effectWorking>
+    <soundWorking>Recipe_Machining</soundWorking>
+    <allowMixingIngredients>true</allowMixingIngredients>
+    <workAmount>2000</workAmount>
+    <workSkill>Crafting</workSkill>
+    <targetCountAdjustment>500</targetCountAdjustment>
+		<recipeUsers>
+			<li>ElectricSmithy</li>
+			<li>FueledSmithy</li>
+		</recipeUsers>
+  </RecipeDef>
+  
+  <!-- ==================== Crossbow bolt ========================== -->
+
+
+
+  <RecipeDef ParentName="AmmoRecipeNeolithicBase">
+    <defName>Makebolt_Steel</defName>
+    <label>make steel bolt x10</label>
+    <description>Craft 10 steel bolt.</description>
+    <jobString>Making steel bolt.</jobString>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>WoodLog</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Steel</li>
+          </thingDefs>
+        </filter>
+        <count>1</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>WoodLog</li>
+        <li>Steel</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <Ammo_bolt_Steel>10</Ammo_bolt_Steel>
+    </products>
+  </RecipeDef>
+  
+  <!-- ==================== Shuriken ========================== -->
+
+
+
+  <RecipeDef ParentName="AmmoRecipeNeolithicBase">
+    <defName>MakeShuriken_Steel</defName>
+    <label>make steel Shuriken x10</label>
+    <description>Craft 10 steel Shuriken.</description>
+    <jobString>Making steel Shuriken.</jobString>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Steel</li>
+          </thingDefs>
+        </filter>
+        <count>2</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>Steel</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <Ammo_Shuriken_Steel>10</Ammo_Shuriken_Steel>
+    </products>
+  </RecipeDef>
+  
+  
+  <!-- ==================== Knife ========================== -->
+
+
+
+  <RecipeDef ParentName="AmmoRecipeNeolithicBase">
+    <defName>Makeknife_Steel</defName>
+    <label>make steel Knife x10</label>
+    <description>Craft 10 steel Knife.</description>
+    <jobString>Making steel Knife.</jobString>
+    <ingredients>
+      <li>
+        <filter>
+          <thingDefs>
+            <li>Steel</li>
+          </thingDefs>
+        </filter>
+        <count>2</count>
+      </li>
+    </ingredients>
+    <fixedIngredientFilter>
+      <thingDefs>
+        <li>Steel</li>
+      </thingDefs>
+    </fixedIngredientFilter>
+    <products>
+      <Ammo_knife_Steel>10</Ammo_knife_Steel>
+    </products>
+  </RecipeDef>
+
+
+</RecipeDefs>

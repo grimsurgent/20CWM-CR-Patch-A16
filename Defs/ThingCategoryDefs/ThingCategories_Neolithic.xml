@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ThingCategoryDefs>
+
+    <ThingCategoryDef>
+      <defName>AmmoNeolithic</defName>
+      <label>neolithic</label>
+      <parent>Ammo</parent>
+    </ThingCategoryDef>
+
+    <ThingCategoryDef>
+      <defName>Ammobolt</defName>
+      <label>bolt</label>
+      <parent>AmmoNeolithic</parent>
+    </ThingCategoryDef>
+	
+	<ThingCategoryDef>
+      <defName>AmmoShuriken</defName>
+      <label>Shuriken</label>
+      <parent>AmmoNeolithic</parent>
+    </ThingCategoryDef>
+	
+	<ThingCategoryDef>
+      <defName>Ammoknife</defName>
+      <label>Knife</label>
+      <parent>AmmoNeolithic</parent>
+    </ThingCategoryDef>
+
+
+</ThingCategoryDefs>
